@@ -1,0 +1,4000 @@
+square 7 49 23 38
+rectangle 130 72 44 28 188
+triangle 109 40 15 102
+circle 242 387 3 142
+square 129 40 12 3
+rectangle 369 109 7 10 18
+triangle 299 278 16 190
+circle 297 226 12 157
+square 210 33 29 79
+rectangle 179 21 17 22 208
+triangle 136 285 45 158
+circle 91 194 7 56
+square 353 308 44 163
+rectangle 290 124 46 30 193
+triangle 122 266 49 89
+circle 201 53 27 123
+square 228 133 48 211
+rectangle 235 13 15 14 233
+triangle 136 225 19 30
+circle 94 29 1 32
+square 195 105 4 6
+rectangle 298 188 23 5 202
+triangle 352 366 16 162
+circle 38 344 1 57
+square 271 228 37 143
+rectangle 377 397 44 4 239
+triangle 231 145 25 30
+circle 298 142 49 53
+square 12 260 7 39
+rectangle 8 395 18 13 235
+triangle 206 162 42 40
+circle 82 252 17 171
+square 95 312 21 56
+rectangle 190 31 38 7 76
+triangle 190 40 29 170
+circle 206 372 48 0
+square 119 254 23 4
+rectangle 360 105 26 23 146
+triangle 213 370 38 109
+circle 220 244 16 19
+square 26 194 13 213
+rectangle 244 390 0 9 238
+triangle 147 185 17 122
+circle 339 47 35 46
+square 85 223 20 209
+rectangle 368 135 15 25 44
+triangle 42 11 29 192
+circle 44 95 18 101
+square 92 215 41 218
+rectangle 269 197 3 47 140
+triangle 10 62 11 213
+circle 177 361 25 10
+square 268 395 26 72
+rectangle 239 274 31 6 121
+triangle 72 160 44 79
+circle 155 189 7 75
+square 193 369 30 205
+rectangle 55 306 13 2 101
+triangle 308 49 31 39
+circle 38 8 47 126
+square 49 3 31 216
+rectangle 14 219 25 9 165
+triangle 329 23 4 85
+circle 337 345 17 0
+square 200 256 14 87
+rectangle 248 104 0 0 241
+triangle 212 154 47 239
+circle 381 348 15 83
+square 99 209 29 228
+rectangle 283 47 7 23 197
+triangle 305 376 3 19
+circle 230 366 0 24
+square 170 285 16 173
+rectangle 155 333 7 26 248
+triangle 266 157 11 38
+circle 214 19 37 68
+square 191 120 12 193
+rectangle 197 31 38 39 63
+triangle 77 104 8 90
+circle 54 160 15 162
+square 280 130 5 156
+rectangle 307 38 0 26 190
+triangle 57 313 14 158
+circle 160 354 18 177
+square 185 129 15 128
+rectangle 102 117 43 19 177
+triangle 147 69 45 93
+circle 73 303 48 250
+square 58 259 6 170
+rectangle 224 332 23 3 102
+triangle 320 350 31 160
+circle 203 300 20 183
+square 58 203 26 10
+rectangle 334 380 29 32 184
+triangle 349 142 49 71
+circle 310 279 33 25
+square 40 323 0 76
+rectangle 29 318 46 49 225
+triangle 21 376 24 249
+circle 158 96 21 249
+square 360 198 1 125
+rectangle 103 351 1 5 135
+triangle 18 74 49 78
+circle 120 225 12 63
+square 388 117 8 90
+rectangle 124 395 7 11 180
+triangle 266 10 43 78
+circle 365 160 42 203
+square 352 107 41 245
+rectangle 0 399 27 21 87
+triangle 14 25 41 12
+circle 148 242 15 139
+square 245 173 20 76
+rectangle 39 254 5 29 88
+triangle 189 366 6 4
+circle 260 298 42 30
+square 116 380 17 42
+rectangle 139 298 1 11 116
+triangle 91 271 28 126
+circle 61 245 20 85
+square 358 253 27 160
+rectangle 111 363 44 33 142
+triangle 227 395 31 37
+circle 316 206 15 249
+square 201 297 11 193
+rectangle 324 108 36 31 140
+triangle 110 16 5 18
+circle 181 320 41 184
+square 265 227 36 128
+rectangle 325 384 17 49 116
+triangle 46 376 16 12
+circle 120 184 41 180
+square 58 211 44 28
+rectangle 118 334 25 17 84
+triangle 218 214 25 3
+circle 28 229 34 152
+square 40 154 40 251
+rectangle 135 283 48 15 1
+triangle 52 264 26 127
+circle 275 245 10 240
+square 192 310 47 2
+rectangle 99 47 15 43 124
+triangle 329 364 29 141
+circle 325 289 8 203
+square 200 289 20 157
+rectangle 46 238 43 38 221
+triangle 121 119 46 17
+circle 188 359 37 135
+square 35 312 34 219
+rectangle 184 134 17 19 245
+triangle 245 376 11 85
+circle 19 31 3 193
+square 398 239 4 108
+rectangle 279 365 41 7 29
+triangle 365 321 4 171
+circle 250 103 32 177
+square 141 54 27 202
+rectangle 300 89 15 47 222
+triangle 279 117 16 203
+circle 362 229 39 23
+square 303 257 11 242
+rectangle 266 221 7 46 250
+triangle 130 294 5 166
+circle 112 293 27 182
+square 244 391 48 2
+rectangle 56 370 3 39 59
+triangle 199 366 35 196
+circle 43 352 36 204
+square 350 10 23 254
+rectangle 5 343 11 31 82
+triangle 216 299 21 239
+circle 170 236 41 77
+square 33 128 27 15
+rectangle 83 376 39 41 194
+triangle 311 104 26 151
+circle 390 122 14 35
+square 84 13 41 187
+rectangle 179 184 37 20 131
+triangle 181 165 2 172
+circle 132 254 9 12
+square 377 62 10 19
+rectangle 150 177 41 36 210
+triangle 299 112 9 11
+circle 390 152 48 4
+square 244 118 0 131
+rectangle 95 221 31 1 90
+triangle 161 57 10 153
+circle 5 173 37 59
+square 296 103 21 170
+rectangle 118 300 39 12 154
+triangle 263 243 39 180
+circle 335 215 14 74
+square 163 158 2 7
+rectangle 116 314 20 10 165
+triangle 168 341 47 16
+circle 387 101 34 208
+square 171 248 25 133
+rectangle 271 129 43 19 201
+triangle 20 164 29 230
+circle 10 80 13 252
+square 138 382 44 3
+rectangle 393 375 30 0 21
+triangle 347 170 37 163
+circle 333 52 11 9
+square 0 380 28 82
+rectangle 223 298 14 45 242
+triangle 109 210 49 118
+circle 90 255 43 240
+square 385 134 25 196
+rectangle 351 26 1 9 223
+triangle 314 37 29 148
+circle 100 337 35 233
+square 284 342 15 50
+rectangle 267 340 7 16 253
+triangle 162 363 19 30
+circle 223 278 13 156
+square 210 40 28 75
+rectangle 194 107 6 1 11
+triangle 231 144 39 66
+circle 384 252 8 134
+square 254 219 28 236
+rectangle 370 263 47 24 158
+triangle 54 8 31 32
+circle 288 163 9 14
+square 179 156 11 82
+rectangle 353 299 38 44 75
+triangle 66 283 24 11
+circle 109 167 34 254
+square 84 51 49 121
+rectangle 267 110 39 27 43
+triangle 381 95 36 64
+circle 235 231 22 163
+square 198 270 37 207
+rectangle 289 246 40 11 157
+triangle 263 112 31 171
+circle 30 121 13 168
+square 350 200 9 249
+rectangle 392 394 30 32 119
+triangle 377 179 32 117
+circle 383 281 3 17
+square 121 356 18 191
+rectangle 100 196 20 4 134
+triangle 329 344 25 115
+circle 16 199 30 173
+square 288 252 28 80
+rectangle 62 40 49 35 193
+triangle 115 259 28 209
+circle 161 382 48 219
+square 240 181 20 253
+rectangle 251 344 19 45 234
+triangle 310 172 23 190
+circle 219 50 31 38
+square 246 269 20 214
+rectangle 210 392 14 24 156
+triangle 319 20 12 221
+circle 125 234 49 165
+square 122 260 43 148
+rectangle 322 381 16 18 13
+triangle 322 239 17 213
+circle 164 378 6 21
+square 341 155 36 209
+rectangle 128 320 2 12 231
+triangle 147 346 1 252
+circle 211 123 36 95
+square 7 233 16 18
+rectangle 212 325 40 3 27
+triangle 133 295 39 1
+circle 58 294 10 18
+square 329 275 48 202
+rectangle 33 162 26 36 121
+triangle 273 264 34 142
+circle 119 242 28 149
+square 262 145 16 207
+rectangle 172 348 0 20 203
+triangle 92 345 28 160
+circle 143 192 13 163
+square 272 201 9 1
+rectangle 86 113 19 31 207
+triangle 219 286 6 76
+circle 254 154 14 250
+square 137 166 47 97
+rectangle 160 212 41 31 179
+triangle 63 77 24 94
+circle 233 350 27 134
+square 229 9 44 54
+rectangle 51 12 29 34 162
+triangle 383 0 9 170
+circle 353 291 21 140
+square 53 329 46 138
+rectangle 261 58 41 13 245
+triangle 368 87 26 82
+circle 19 41 4 231
+square 92 45 20 204
+rectangle 362 176 17 26 148
+triangle 144 171 29 250
+circle 129 88 48 98
+square 17 123 38 8
+rectangle 129 126 18 6 14
+triangle 255 229 26 128
+circle 296 19 14 47
+square 16 318 41 43
+rectangle 398 320 48 11 26
+triangle 218 377 46 166
+circle 278 228 13 10
+square 306 108 18 64
+rectangle 119 123 27 42 128
+triangle 178 253 45 186
+circle 75 204 12 47
+square 19 331 35 83
+rectangle 68 210 34 20 33
+triangle 265 245 29 210
+circle 127 287 13 22
+square 166 134 33 160
+rectangle 184 355 6 49 59
+triangle 93 286 33 229
+circle 47 194 30 217
+square 65 110 32 15
+rectangle 314 52 41 35 111
+triangle 206 360 10 87
+circle 3 230 35 95
+square 185 67 34 68
+rectangle 0 86 0 45 134
+triangle 302 28 33 102
+circle 336 202 39 113
+square 125 389 22 235
+rectangle 205 319 41 21 14
+triangle 114 262 6 88
+circle 226 19 1 140
+square 44 375 8 2
+rectangle 331 336 20 8 59
+triangle 147 108 11 182
+circle 0 314 46 19
+square 45 133 12 104
+rectangle 154 21 36 36 230
+triangle 262 173 43 40
+circle 188 171 38 236
+square 91 13 10 17
+rectangle 92 343 25 18 158
+triangle 15 236 41 187
+circle 369 32 34 48
+square 343 79 6 64
+rectangle 207 137 3 21 67
+triangle 234 349 16 169
+circle 338 150 33 131
+square 296 85 24 107
+rectangle 363 381 12 1 142
+triangle 295 336 4 113
+circle 180 31 30 55
+square 314 312 36 82
+rectangle 9 85 19 31 200
+triangle 308 9 39 57
+circle 119 66 49 120
+square 115 177 22 82
+rectangle 380 281 35 30 110
+triangle 36 194 45 37
+circle 33 80 6 134
+square 117 81 31 13
+rectangle 5 192 10 1 76
+triangle 142 344 35 205
+circle 272 243 22 43
+square 41 381 29 8
+rectangle 360 129 5 32 59
+triangle 232 113 45 103
+circle 104 255 11 76
+square 10 304 1 41
+rectangle 361 64 5 22 193
+triangle 143 236 18 14
+circle 188 143 39 222
+square 343 270 19 47
+rectangle 117 332 32 47 224
+triangle 273 390 19 240
+circle 111 215 28 217
+square 45 270 12 73
+rectangle 383 299 9 13 85
+triangle 151 265 2 132
+circle 153 99 16 134
+square 269 242 3 10
+rectangle 329 57 32 14 72
+triangle 354 126 27 45
+circle 59 152 36 37
+square 329 186 49 124
+rectangle 398 90 3 36 28
+triangle 27 385 48 112
+circle 17 31 26 176
+square 363 214 33 227
+rectangle 122 311 41 21 7
+triangle 333 353 30 170
+circle 304 115 37 135
+square 281 358 36 128
+rectangle 40 259 36 12 3
+triangle 154 126 26 2
+circle 395 221 27 31
+square 358 254 20 12
+rectangle 327 51 12 32 7
+triangle 4 57 5 157
+circle 343 258 39 98
+square 97 281 15 12
+rectangle 5 117 12 24 14
+triangle 259 299 16 80
+circle 51 246 22 168
+square 215 49 11 14
+rectangle 31 196 23 46 44
+triangle 50 238 31 164
+circle 335 65 1 217
+square 37 348 20 49
+rectangle 294 375 3 39 11
+triangle 45 143 7 62
+circle 61 378 4 252
+square 231 220 36 120
+rectangle 243 367 48 44 192
+triangle 149 125 23 198
+circle 216 280 48 29
+square 157 14 5 119
+rectangle 107 105 27 14 75
+triangle 108 97 49 25
+circle 29 226 16 188
+square 185 262 18 208
+rectangle 179 203 33 23 74
+triangle 21 374 34 210
+circle 302 236 29 140
+square 350 213 0 187
+rectangle 148 83 31 47 143
+triangle 306 178 6 77
+circle 114 310 20 178
+square 217 146 4 131
+rectangle 63 37 48 34 91
+triangle 108 212 13 125
+circle 324 304 13 253
+square 362 179 27 114
+rectangle 347 31 3 33 199
+triangle 120 394 47 114
+circle 71 158 20 48
+square 18 201 17 197
+rectangle 213 380 6 40 114
+triangle 268 70 13 4
+circle 334 25 21 61
+square 50 17 10 89
+rectangle 125 301 44 42 34
+triangle 170 146 37 101
+circle 365 389 21 0
+square 360 110 25 34
+rectangle 94 123 34 24 69
+triangle 294 23 25 12
+circle 157 27 22 14
+square 172 39 39 53
+rectangle 17 130 40 6 201
+triangle 12 295 38 116
+circle 121 84 27 248
+square 60 372 37 225
+rectangle 381 126 44 30 185
+triangle 58 219 12 158
+circle 312 306 28 73
+square 326 26 26 43
+rectangle 181 96 42 11 254
+triangle 177 124 22 195
+circle 252 215 30 227
+square 351 52 23 167
+rectangle 17 26 15 11 164
+triangle 49 207 19 165
+circle 376 225 31 72
+square 259 297 43 240
+rectangle 29 22 48 3 94
+triangle 268 227 24 156
+circle 277 6 0 157
+square 1 330 48 22
+rectangle 149 94 27 2 189
+triangle 377 270 1 254
+circle 284 220 15 49
+square 177 295 45 14
+rectangle 0 318 17 23 162
+triangle 154 368 37 15
+circle 113 122 7 66
+square 182 142 12 73
+rectangle 40 105 20 6 36
+triangle 319 20 12 147
+circle 335 152 44 55
+square 210 31 13 116
+rectangle 247 251 10 49 102
+triangle 234 148 23 38
+circle 371 132 9 216
+square 145 302 23 174
+rectangle 219 294 36 7 147
+triangle 100 146 1 180
+circle 344 356 24 97
+square 175 95 16 64
+rectangle 91 391 40 6 14
+triangle 297 97 9 18
+circle 22 285 49 94
+square 120 192 48 103
+rectangle 176 76 33 47 198
+triangle 103 8 24 176
+circle 303 230 31 251
+square 125 69 25 78
+rectangle 385 399 21 14 0
+triangle 256 72 3 173
+circle 175 181 5 217
+square 248 345 2 10
+rectangle 31 0 13 47 99
+triangle 170 201 9 132
+circle 379 196 29 166
+square 56 130 31 135
+rectangle 362 151 45 20 179
+triangle 357 293 15 168
+circle 261 366 23 63
+square 286 230 2 236
+rectangle 379 110 32 1 137
+triangle 101 187 29 158
+circle 337 236 2 253
+square 323 88 24 119
+rectangle 396 323 12 23 121
+triangle 279 155 24 17
+circle 231 257 21 214
+square 194 127 6 101
+rectangle 216 347 13 34 47
+triangle 260 357 0 216
+circle 313 333 25 85
+square 162 66 6 18
+rectangle 307 173 37 46 230
+triangle 24 66 8 63
+circle 361 157 21 231
+square 114 314 39 60
+rectangle 259 238 44 10 177
+triangle 343 42 5 96
+circle 111 380 12 249
+square 90 283 45 233
+rectangle 34 138 14 31 100
+triangle 150 118 25 238
+circle 274 287 42 213
+square 220 182 5 184
+rectangle 20 46 3 20 185
+triangle 175 162 42 245
+circle 38 342 15 30
+square 377 334 17 124
+rectangle 380 190 46 6 106
+triangle 43 272 5 118
+circle 375 220 25 141
+square 197 105 37 50
+rectangle 383 295 26 33 7
+triangle 227 351 49 110
+circle 151 377 6 195
+square 395 396 11 131
+rectangle 325 206 29 20 189
+triangle 157 322 3 183
+circle 80 103 33 239
+square 182 257 13 96
+rectangle 237 229 37 36 56
+triangle 94 22 30 95
+circle 354 306 19 167
+square 83 339 13 237
+rectangle 239 144 18 33 249
+triangle 265 205 37 80
+circle 287 397 29 218
+square 363 100 49 37
+rectangle 301 88 5 20 159
+triangle 372 276 30 249
+circle 169 188 29 112
+square 332 158 7 76
+rectangle 162 16 9 45 228
+triangle 85 108 13 32
+circle 105 14 4 225
+square 70 163 29 158
+rectangle 39 59 45 23 243
+triangle 344 377 37 61
+circle 242 98 27 234
+square 382 356 25 13
+rectangle 10 92 20 20 38
+triangle 153 128 28 53
+circle 282 171 0 5
+square 255 21 34 234
+rectangle 247 328 38 35 243
+triangle 158 374 23 51
+circle 272 324 35 219
+square 56 144 48 192
+rectangle 295 367 33 26 63
+triangle 36 137 46 172
+circle 157 342 46 13
+square 381 81 44 48
+rectangle 204 55 37 33 47
+triangle 365 93 6 3
+circle 251 287 40 125
+square 232 326 29 107
+rectangle 214 17 25 38 36
+triangle 345 157 25 227
+circle 279 351 41 164
+square 381 65 25 139
+rectangle 293 264 13 29 236
+triangle 72 140 3 154
+circle 232 280 9 109
+square 40 376 39 174
+rectangle 18 168 36 16 232
+triangle 374 98 21 2
+circle 15 227 41 214
+square 158 135 15 206
+rectangle 161 32 22 19 74
+triangle 3 54 31 161
+circle 304 83 24 148
+square 11 344 8 84
+rectangle 205 272 42 22 220
+triangle 29 313 43 35
+circle 109 305 34 254
+square 311 9 33 28
+rectangle 185 307 10 30 234
+triangle 63 133 16 20
+circle 200 385 42 14
+square 191 263 43 123
+rectangle 198 363 11 41 232
+triangle 289 397 29 212
+circle 169 260 31 15
+square 311 313 46 175
+rectangle 4 323 38 22 5
+triangle 216 365 27 152
+circle 212 380 26 235
+square 241 218 25 84
+rectangle 343 363 31 8 182
+triangle 267 152 1 201
+circle 295 17 29 202
+square 191 286 10 196
+rectangle 192 201 39 11 144
+triangle 370 313 20 108
+circle 385 120 7 210
+square 97 79 49 217
+rectangle 183 167 19 19 237
+triangle 229 199 18 188
+circle 5 15 37 10
+square 329 224 15 236
+rectangle 272 96 10 28 114
+triangle 371 124 45 240
+circle 377 158 4 155
+square 208 21 8 195
+rectangle 252 95 11 10 75
+triangle 82 110 32 240
+circle 301 260 35 210
+square 284 6 5 238
+rectangle 177 224 49 43 74
+triangle 216 24 31 106
+circle 385 38 3 102
+square 22 213 45 1
+rectangle 183 98 7 0 176
+triangle 289 201 49 205
+circle 274 295 28 56
+square 247 181 43 40
+rectangle 168 15 26 24 193
+triangle 364 87 45 104
+circle 293 6 5 11
+square 178 149 30 24
+rectangle 187 232 24 34 175
+triangle 153 111 38 244
+circle 338 288 7 242
+square 358 16 25 42
+rectangle 292 177 29 40 15
+triangle 151 27 21 219
+circle 140 164 27 81
+square 205 211 34 210
+rectangle 175 359 39 49 44
+triangle 172 374 40 201
+circle 342 222 21 145
+square 234 247 43 237
+rectangle 101 365 48 24 2
+triangle 388 365 8 152
+circle 110 319 10 157
+square 392 336 48 73
+rectangle 150 133 19 37 82
+triangle 94 393 10 131
+circle 305 258 7 213
+square 374 264 7 207
+rectangle 14 69 39 14 27
+triangle 195 48 17 183
+circle 267 160 3 215
+square 83 156 18 16
+rectangle 200 122 37 49 121
+triangle 296 217 41 48
+circle 35 88 21 228
+square 107 320 42 233
+rectangle 152 189 13 28 213
+triangle 198 17 0 253
+circle 146 243 15 253
+square 11 166 43 68
+rectangle 4 367 7 22 6
+triangle 131 303 20 122
+circle 264 151 5 119
+square 242 16 38 0
+rectangle 285 102 23 45 77
+triangle 115 52 38 91
+circle 328 117 22 163
+square 326 396 11 39
+rectangle 284 42 40 47 63
+triangle 311 343 44 42
+circle 325 38 22 247
+square 257 315 27 186
+rectangle 382 177 44 28 128
+triangle 135 301 39 208
+circle 323 164 41 3
+square 359 143 48 67
+rectangle 252 333 8 41 246
+triangle 299 69 30 176
+circle 376 13 7 104
+square 398 269 15 55
+rectangle 47 27 25 38 26
+triangle 264 247 6 133
+circle 227 302 31 139
+square 357 346 27 185
+rectangle 338 41 42 2 60
+triangle 169 11 8 67
+circle 243 173 30 191
+square 202 164 20 61
+rectangle 387 40 8 5 160
+triangle 387 14 1 70
+circle 399 159 7 15
+square 243 82 32 208
+rectangle 239 384 11 4 237
+triangle 227 184 24 31
+circle 214 307 48 73
+square 304 187 35 7
+rectangle 336 157 25 14 109
+triangle 328 233 23 205
+circle 44 170 32 184
+square 285 279 14 170
+rectangle 326 279 10 20 115
+triangle 301 24 49 77
+circle 2 310 4 58
+square 360 364 28 107
+rectangle 101 0 32 44 10
+triangle 69 23 5 98
+circle 78 127 19 94
+square 221 37 7 170
+rectangle 189 12 42 33 97
+triangle 341 352 17 237
+circle 288 307 33 167
+square 81 303 32 187
+rectangle 150 385 20 19 88
+triangle 265 174 17 173
+circle 193 200 34 16
+square 157 119 45 73
+rectangle 212 279 19 18 145
+triangle 98 349 7 245
+circle 368 8 26 57
+square 252 117 43 76
+rectangle 241 131 7 18 38
+triangle 1 322 37 63
+circle 178 246 44 78
+square 383 310 34 58
+rectangle 187 32 19 7 217
+triangle 84 148 35 85
+circle 98 194 26 15
+square 134 215 18 166
+rectangle 199 371 19 1 81
+triangle 10 73 42 236
+circle 328 100 12 244
+square 139 269 1 139
+rectangle 264 84 11 44 36
+triangle 327 41 49 217
+circle 95 6 41 231
+square 338 282 3 208
+rectangle 323 203 30 8 153
+triangle 337 180 49 68
+circle 249 143 18 76
+square 275 175 31 66
+rectangle 330 335 28 48 92
+triangle 162 61 47 12
+circle 14 395 30 177
+square 256 125 43 171
+rectangle 15 50 42 25 33
+triangle 265 12 29 150
+circle 173 157 6 98
+square 153 6 2 121
+rectangle 162 338 11 16 89
+triangle 309 82 46 179
+circle 96 44 35 180
+square 58 203 3 219
+rectangle 246 155 0 25 27
+triangle 363 152 11 49
+circle 387 116 27 191
+square 90 283 20 254
+rectangle 390 242 11 36 252
+triangle 60 69 14 123
+circle 266 157 49 185
+square 19 98 43 183
+rectangle 176 101 46 38 75
+triangle 81 49 11 192
+circle 44 76 46 88
+square 256 236 12 209
+rectangle 239 79 37 16 220
+triangle 6 91 6 253
+circle 146 70 33 251
+square 390 384 8 57
+rectangle 194 386 47 39 15
+triangle 127 168 0 144
+circle 340 188 10 243
+square 23 231 23 71
+rectangle 314 212 19 2 202
+triangle 81 335 35 96
+circle 24 270 16 58
+square 328 26 33 34
+rectangle 103 126 38 41 39
+triangle 19 281 15 143
+circle 198 52 18 56
+square 89 101 33 93
+rectangle 220 13 42 26 50
+triangle 156 32 6 192
+circle 164 102 6 110
+square 319 302 34 200
+rectangle 392 232 44 19 3
+triangle 347 27 45 79
+circle 393 366 44 219
+square 158 121 16 115
+rectangle 342 392 4 29 185
+triangle 147 72 30 201
+circle 97 246 40 166
+square 0 43 31 224
+rectangle 175 217 2 42 226
+triangle 68 275 37 18
+circle 232 337 16 36
+square 92 104 10 34
+rectangle 15 395 35 31 108
+triangle 268 164 28 5
+circle 104 315 26 16
+square 140 123 8 170
+rectangle 259 220 47 29 123
+triangle 317 357 30 136
+circle 51 271 28 52
+square 399 152 6 19
+rectangle 276 104 48 37 143
+triangle 14 257 9 50
+circle 276 200 16 105
+square 72 155 42 101
+rectangle 314 386 29 33 247
+triangle 387 131 9 40
+circle 199 119 21 69
+square 303 53 46 221
+rectangle 98 148 37 26 236
+triangle 328 394 13 217
+circle 347 198 31 175
+square 90 130 23 102
+rectangle 329 107 33 39 129
+triangle 33 346 39 66
+circle 71 155 36 49
+square 346 284 26 54
+rectangle 384 385 37 45 139
+triangle 100 386 8 23
+circle 112 327 0 7
+square 185 171 49 249
+rectangle 368 260 46 9 128
+triangle 98 85 48 154
+circle 367 104 33 74
+square 190 94 16 11
+rectangle 11 269 8 49 232
+triangle 345 223 5 245
+circle 20 76 25 205
+square 168 192 17 244
+rectangle 144 186 40 13 35
+triangle 38 343 3 142
+circle 11 96 22 108
+square 296 27 15 243
+rectangle 219 43 21 0 224
+triangle 329 338 47 175
+circle 116 43 29 122
+square 48 377 48 15
+rectangle 160 338 42 11 172
+triangle 276 188 42 35
+circle 304 179 19 80
+square 265 153 15 215
+rectangle 369 27 1 6 165
+triangle 385 93 6 8
+circle 72 215 49 185
+square 46 153 37 144
+rectangle 222 320 4 22 46
+triangle 259 196 28 157
+circle 16 57 26 109
+square 393 103 36 8
+rectangle 35 115 19 21 28
+triangle 152 144 15 76
+circle 223 380 9 227
+square 123 285 42 166
+rectangle 357 2 48 43 182
+triangle 185 134 42 198
+circle 279 283 44 186
+square 352 193 27 159
+rectangle 254 267 18 48 180
+triangle 252 54 32 243
+circle 201 190 41 54
+square 194 287 24 111
+rectangle 137 382 46 31 187
+triangle 382 233 6 241
+circle 330 215 20 71
+square 133 146 45 145
+rectangle 197 26 12 14 143
+triangle 301 377 33 160
+circle 345 366 20 149
+square 147 384 31 97
+rectangle 41 81 1 47 48
+triangle 15 61 11 252
+circle 226 340 12 104
+square 159 377 35 240
+rectangle 223 126 9 23 5
+triangle 139 46 17 31
+circle 83 351 23 183
+square 186 399 17 216
+rectangle 193 355 14 44 206
+triangle 273 7 1 200
+circle 58 204 41 99
+square 181 363 48 72
+rectangle 290 120 4 29 145
+triangle 381 360 5 57
+circle 379 165 45 185
+square 50 88 39 235
+rectangle 57 186 32 45 239
+triangle 93 42 31 17
+circle 396 366 16 220
+square 61 289 9 0
+rectangle 19 336 42 23 136
+triangle 202 5 27 38
+circle 105 63 42 13
+square 349 333 8 236
+rectangle 31 96 28 9 159
+triangle 217 336 36 94
+circle 139 90 14 94
+square 68 56 34 162
+rectangle 275 265 12 10 44
+triangle 388 148 33 17
+circle 334 306 0 95
+square 307 375 20 98
+rectangle 121 307 49 7 1
+triangle 207 390 10 5
+circle 336 378 38 203
+square 115 115 22 87
+rectangle 143 351 39 45 1
+triangle 14 85 19 175
+circle 298 56 9 119
+square 45 165 26 121
+rectangle 41 373 15 44 16
+triangle 203 83 40 173
+circle 53 286 2 217
+square 268 282 37 58
+rectangle 162 104 46 12 104
+triangle 9 245 16 224
+circle 261 178 11 141
+square 112 211 6 170
+rectangle 199 397 42 6 63
+triangle 344 307 34 127
+circle 180 57 28 240
+square 9 262 16 201
+rectangle 336 7 26 37 116
+triangle 106 352 30 192
+circle 200 236 16 170
+square 46 199 27 207
+rectangle 80 36 24 10 152
+triangle 254 135 23 41
+circle 373 177 7 189
+square 16 265 21 22
+rectangle 76 125 7 9 105
+triangle 250 392 6 98
+circle 388 29 0 96
+square 3 115 31 55
+rectangle 397 108 46 9 106
+triangle 277 275 24 97
+circle 119 292 44 152
+square 315 172 4 210
+rectangle 167 337 48 46 140
+triangle 336 213 42 216
+circle 78 203 31 97
+square 219 8 11 61
+rectangle 182 367 23 18 200
+triangle 151 20 49 102
+circle 24 291 15 131
+square 29 69 23 163
+rectangle 127 168 38 11 175
+triangle 24 357 39 64
+circle 260 379 24 82
+square 86 201 15 7
+rectangle 147 362 41 29 146
+triangle 200 287 31 88
+circle 318 35 10 84
+square 219 157 42 89
+rectangle 176 305 36 31 241
+triangle 92 326 20 147
+circle 204 185 7 110
+square 12 206 21 103
+rectangle 294 181 19 33 181
+triangle 181 186 12 160
+circle 19 141 29 169
+square 185 379 32 150
+rectangle 56 219 44 36 154
+triangle 322 263 33 70
+circle 128 50 49 10
+square 197 239 33 208
+rectangle 353 292 24 3 118
+triangle 295 211 20 159
+circle 243 368 17 141
+square 310 115 14 241
+rectangle 49 340 37 23 124
+triangle 138 321 17 147
+circle 352 212 6 52
+square 151 384 0 131
+rectangle 27 317 20 8 215
+triangle 61 90 13 225
+circle 258 104 32 222
+square 373 210 11 182
+rectangle 253 214 22 0 67
+triangle 21 138 10 181
+circle 34 337 32 81
+square 310 233 37 184
+rectangle 309 391 49 10 151
+triangle 136 359 49 115
+circle 325 387 28 250
+square 7 155 22 147
+rectangle 23 197 12 12 194
+triangle 238 396 19 142
+circle 263 174 8 84
+square 332 12 17 64
+rectangle 322 366 48 4 128
+triangle 284 247 29 80
+circle 337 23 20 146
+square 155 338 45 84
+rectangle 109 377 43 8 52
+triangle 276 149 2 172
+circle 213 271 24 196
+square 304 101 36 206
+rectangle 200 22 15 14 157
+triangle 71 213 32 227
+circle 85 350 8 140
+square 54 9 5 160
+rectangle 174 191 8 16 217
+triangle 383 371 15 133
+circle 291 258 21 204
+square 283 118 23 195
+rectangle 240 84 27 11 183
+triangle 6 215 23 249
+circle 31 154 12 127
+square 212 339 29 147
+rectangle 157 18 1 47 230
+triangle 187 325 43 169
+circle 133 253 7 157
+square 252 93 40 9
+rectangle 233 335 23 26 11
+triangle 18 115 49 209
+circle 132 2 38 35
+square 356 5 22 24
+rectangle 46 204 25 43 15
+triangle 48 198 37 191
+circle 97 167 20 229
+square 173 99 16 115
+rectangle 256 364 34 0 117
+triangle 261 256 0 64
+circle 399 4 38 27
+square 60 396 34 207
+rectangle 153 248 1 4 55
+triangle 36 150 22 224
+circle 81 119 22 116
+square 390 243 19 174
+rectangle 179 208 35 35 102
+triangle 11 78 37 202
+circle 175 21 32 201
+square 393 270 10 116
+rectangle 275 312 13 1 73
+triangle 48 87 7 209
+circle 290 205 39 235
+square 89 385 17 166
+rectangle 105 23 9 36 48
+triangle 234 51 32 151
+circle 88 135 15 209
+square 97 87 36 95
+rectangle 390 169 2 46 225
+triangle 201 0 40 189
+circle 394 200 24 3
+square 286 25 3 16
+rectangle 268 75 20 31 64
+triangle 285 395 19 216
+circle 195 339 45 4
+square 45 198 44 119
+rectangle 47 343 46 26 88
+triangle 145 126 21 159
+circle 185 319 30 224
+square 134 126 47 38
+rectangle 224 96 23 48 236
+triangle 153 339 0 45
+circle 106 60 28 148
+square 100 10 28 8
+rectangle 287 194 2 30 56
+triangle 98 15 5 117
+circle 343 159 49 153
+square 100 270 15 177
+rectangle 289 66 42 2 47
+triangle 124 290 37 165
+circle 231 289 6 208
+square 90 150 17 166
+rectangle 91 344 16 33 8
+triangle 262 266 19 62
+circle 202 118 27 191
+square 393 289 47 56
+rectangle 49 247 41 15 89
+triangle 14 399 10 11
+circle 327 371 44 232
+square 241 395 15 102
+rectangle 374 251 24 46 127
+triangle 379 266 29 96
+circle 397 52 37 165
+square 270 131 14 33
+rectangle 197 91 28 13 239
+triangle 129 312 3 71
+circle 98 89 36 119
+square 343 195 49 44
+rectangle 75 133 4 11 68
+triangle 61 122 1 66
+circle 42 362 38 130
+square 203 74 18 131
+rectangle 296 78 11 37 171
+triangle 389 360 20 42
+circle 198 218 47 5
+square 338 335 12 13
+rectangle 240 192 26 24 176
+triangle 134 164 47 58
+circle 292 76 13 228
+square 290 16 46 23
+rectangle 60 157 27 8 65
+triangle 394 138 30 248
+circle 127 11 1 46
+square 348 382 26 246
+rectangle 108 278 23 5 95
+triangle 242 322 40 208
+circle 84 250 44 29
+square 10 397 2 88
+rectangle 260 142 41 6 147
+triangle 36 289 26 168
+circle 57 201 40 27
+square 367 348 13 3
+rectangle 32 175 36 21 102
+triangle 54 141 21 177
+circle 372 81 46 246
+square 232 245 41 194
+rectangle 369 241 31 18 153
+triangle 377 193 18 38
+circle 190 320 47 166
+square 115 41 39 250
+rectangle 133 94 16 35 145
+triangle 276 396 13 80
+circle 91 91 1 219
+square 280 85 17 2
+rectangle 223 302 29 8 55
+triangle 367 386 32 154
+circle 288 15 29 162
+square 0 4 12 102
+rectangle 339 377 7 35 81
+triangle 14 260 22 210
+circle 309 97 43 146
+square 176 313 13 212
+rectangle 1 377 21 42 99
+triangle 95 311 43 54
+circle 77 39 19 254
+square 340 275 5 28
+rectangle 334 365 32 48 141
+triangle 307 67 3 164
+circle 30 78 0 241
+square 95 66 45 25
+rectangle 58 284 14 6 215
+triangle 348 43 5 22
+circle 157 144 12 86
+square 357 185 45 27
+rectangle 199 177 36 30 69
+triangle 347 271 46 101
+circle 93 253 33 200
+square 138 380 5 40
+rectangle 33 234 47 39 109
+triangle 183 103 0 29
+circle 205 314 24 149
+square 195 238 43 145
+rectangle 5 35 49 14 208
+triangle 329 233 33 236
+circle 40 282 36 201
+square 178 4 46 194
+rectangle 307 324 33 44 204
+triangle 251 106 38 39
+circle 292 217 42 212
+square 280 120 31 147
+rectangle 196 101 43 38 153
+triangle 174 97 19 79
+circle 161 155 14 74
+square 7 227 8 106
+rectangle 101 173 1 33 42
+triangle 76 388 35 254
+circle 209 266 49 204
+square 200 295 2 244
+rectangle 18 111 6 34 115
+triangle 373 384 44 243
+circle 169 267 21 160
+square 176 235 47 191
+rectangle 76 154 38 3 90
+triangle 37 245 8 49
+circle 4 247 14 58
+square 161 113 25 64
+rectangle 260 376 21 29 190
+triangle 199 21 42 38
+circle 89 337 29 102
+square 297 227 15 86
+rectangle 23 146 9 12 238
+triangle 68 261 38 43
+circle 111 382 31 75
+square 299 323 26 12
+rectangle 109 167 16 40 119
+triangle 169 178 9 176
+circle 189 166 40 114
+square 218 314 25 56
+rectangle 363 320 14 26 99
+triangle 293 34 45 195
+circle 80 54 3 103
+square 143 188 28 125
+rectangle 284 95 33 7 204
+triangle 33 185 46 142
+circle 213 387 10 225
+square 145 116 24 56
+rectangle 368 266 30 3 114
+triangle 141 63 39 65
+circle 37 370 40 236
+square 85 71 26 12
+rectangle 263 224 6 41 41
+triangle 305 304 11 33
+circle 251 297 48 224
+square 126 308 24 129
+rectangle 188 245 41 18 232
+triangle 319 368 32 229
+circle 348 382 43 39
+square 7 226 45 46
+rectangle 315 104 30 4 195
+triangle 314 284 13 34
+circle 293 317 12 158
+square 159 263 45 214
+rectangle 17 330 12 46 98
+triangle 390 119 9 184
+circle 73 98 7 222
+square 81 272 8 197
+rectangle 262 384 46 42 238
+triangle 184 169 37 197
+circle 249 116 41 242
+square 37 384 37 208
+rectangle 300 213 49 36 78
+triangle 61 297 32 216
+circle 28 83 9 43
+square 246 75 6 205
+rectangle 98 54 11 19 253
+triangle 378 286 17 204
+circle 61 381 31 212
+square 389 181 16 129
+rectangle 208 17 48 45 104
+triangle 228 381 41 166
+circle 377 8 8 151
+square 212 261 46 112
+rectangle 138 51 0 19 212
+triangle 310 226 41 227
+circle 320 396 21 33
+square 289 229 29 89
+rectangle 248 194 38 3 33
+triangle 129 269 33 68
+circle 214 84 21 70
+square 355 257 32 74
+rectangle 28 348 14 41 12
+triangle 204 47 17 214
+circle 14 236 36 175
+square 375 79 24 186
+rectangle 253 136 2 22 117
+triangle 203 264 48 94
+circle 218 7 10 66
+square 252 222 2 26
+rectangle 46 120 42 45 251
+triangle 364 282 41 197
+circle 198 185 46 222
+square 141 206 22 176
+rectangle 273 203 46 31 79
+triangle 250 369 7 66
+circle 162 392 14 39
+square 58 78 28 237
+rectangle 367 121 35 19 166
+triangle 250 78 10 115
+circle 239 357 40 217
+square 83 185 34 175
+rectangle 20 295 31 3 29
+triangle 371 328 42 163
+circle 106 186 26 53
+square 176 361 6 217
+rectangle 153 239 17 10 202
+triangle 100 30 20 199
+circle 69 340 12 189
+square 367 223 25 24
+rectangle 219 267 45 10 160
+triangle 330 36 33 11
+circle 170 360 9 98
+square 171 121 47 65
+rectangle 301 143 35 3 133
+triangle 381 163 21 200
+circle 311 210 17 89
+square 364 365 47 116
+rectangle 367 108 9 11 17
+triangle 235 45 3 142
+circle 40 283 34 245
+square 231 175 35 164
+rectangle 83 15 0 36 184
+triangle 131 159 35 244
+circle 52 19 8 254
+square 269 290 42 72
+rectangle 243 265 43 14 27
+triangle 56 71 45 12
+circle 198 61 15 163
+square 112 331 21 130
+rectangle 112 332 29 23 234
+triangle 269 228 41 25
+circle 309 191 43 198
+square 46 86 47 201
+rectangle 106 112 4 8 148
+triangle 41 10 7 98
+circle 191 56 44 132
+square 13 113 32 111
+rectangle 154 354 16 40 177
+triangle 119 69 44 221
+circle 125 309 18 116
+square 114 362 17 68
+rectangle 138 292 19 43 11
+triangle 134 206 0 46
+circle 360 169 41 205
+square 71 366 41 4
+rectangle 84 312 25 11 40
+triangle 319 6 40 186
+circle 341 159 10 62
+square 313 367 42 219
+rectangle 96 242 27 43 223
+triangle 244 264 8 6
+circle 116 297 23 180
+square 188 90 12 136
+rectangle 353 241 21 30 38
+triangle 358 139 16 178
+circle 273 173 11 94
+square 307 323 31 165
+rectangle 309 39 5 13 211
+triangle 152 147 38 204
+circle 186 169 49 71
+square 34 213 40 101
+rectangle 378 252 42 34 131
+triangle 237 40 25 128
+circle 143 256 24 79
+square 62 258 29 197
+rectangle 106 392 14 13 251
+triangle 75 385 40 173
+circle 388 114 45 89
+square 99 195 10 101
+rectangle 333 346 49 36 191
+triangle 168 381 39 105
+circle 78 58 13 12
+square 140 175 18 210
+rectangle 290 335 5 3 159
+triangle 244 268 46 171
+circle 326 26 29 34
+square 384 225 10 117
+rectangle 114 168 0 31 188
+triangle 138 304 28 97
+circle 301 165 29 1
+square 93 62 8 212
+rectangle 216 341 16 40 24
+triangle 145 132 1 224
+circle 33 273 45 30
+square 373 281 48 90
+rectangle 15 49 22 37 235
+triangle 40 267 23 105
+circle 23 236 8 2
+square 17 114 33 29
+rectangle 234 60 36 17 86
+triangle 149 281 29 55
+circle 210 0 7 134
+square 381 29 34 54
+rectangle 14 222 23 38 195
+triangle 12 352 26 109
+circle 333 294 47 117
+square 71 131 41 12
+rectangle 42 312 10 44 56
+triangle 39 86 34 102
+circle 7 168 2 167
+square 234 24 26 52
+rectangle 177 191 32 20 4
+triangle 57 396 32 226
+circle 96 131 9 67
+square 222 156 48 211
+rectangle 151 337 0 12 155
+triangle 201 55 28 100
+circle 65 101 3 239
+square 57 172 26 88
+rectangle 100 95 46 27 61
+triangle 301 384 43 229
+circle 183 163 29 190
+square 253 39 27 20
+rectangle 140 260 35 2 105
+triangle 363 232 10 27
+circle 184 103 22 199
+square 287 346 26 97
+rectangle 386 56 8 16 219
+triangle 319 374 28 4
+circle 138 122 16 157
+square 276 84 21 244
+rectangle 60 296 6 23 95
+triangle 24 257 13 198
+circle 143 335 43 246
+square 335 58 32 194
+rectangle 381 161 23 22 249
+triangle 383 31 17 94
+circle 46 196 12 40
+square 389 143 43 8
+rectangle 20 17 14 20 10
+triangle 238 186 5 180
+circle 100 350 45 157
+square 341 128 35 30
+rectangle 137 12 28 29 152
+triangle 133 171 36 83
+circle 334 30 2 45
+square 348 339 25 48
+rectangle 209 283 5 42 113
+triangle 26 125 7 115
+circle 338 144 2 181
+square 261 327 21 70
+rectangle 188 16 1 43 187
+triangle 9 105 21 124
+circle 147 291 46 86
+square 18 59 18 144
+rectangle 2 25 11 42 74
+triangle 380 158 44 59
+circle 214 324 25 197
+square 239 108 33 221
+rectangle 84 154 49 45 219
+triangle 304 223 40 3
+circle 354 18 11 203
+square 340 238 42 181
+rectangle 110 136 42 23 66
+triangle 240 325 30 209
+circle 377 123 25 40
+square 165 325 15 103
+rectangle 212 269 25 7 83
+triangle 346 347 26 104
+circle 274 328 16 171
+square 322 111 22 151
+rectangle 369 340 13 32 156
+triangle 140 390 13 74
+circle 246 316 7 86
+square 258 220 9 135
+rectangle 356 200 18 39 180
+triangle 240 136 19 129
+circle 389 245 17 225
+square 240 98 47 83
+rectangle 346 267 35 38 113
+triangle 80 274 13 72
+circle 337 83 28 59
+square 363 358 42 184
+rectangle 140 45 37 19 22
+triangle 247 199 0 43
+circle 376 106 26 48
+square 92 75 23 208
+rectangle 250 387 25 38 83
+triangle 163 264 8 218
+circle 385 263 20 214
+square 30 300 43 178
+rectangle 268 304 19 3 178
+triangle 149 179 38 25
+circle 243 360 46 8
+square 354 335 29 55
+rectangle 301 166 28 33 197
+triangle 287 194 41 182
+circle 330 259 31 23
+square 126 200 27 192
+rectangle 150 127 48 22 167
+triangle 275 85 29 140
+circle 63 6 0 156
+square 147 46 14 83
+rectangle 273 234 30 41 38
+triangle 374 161 12 100
+circle 58 149 29 22
+square 107 181 49 244
+rectangle 357 211 44 34 231
+triangle 48 33 22 210
+circle 22 313 8 111
+square 46 31 45 42
+rectangle 387 124 27 42 227
+triangle 276 267 11 182
+circle 155 102 18 213
+square 223 148 24 46
+rectangle 168 192 18 13 169
+triangle 348 27 28 253
+circle 380 243 8 76
+square 314 33 46 239
+rectangle 342 35 31 31 220
+triangle 200 391 20 137
+circle 272 353 33 219
+square 302 381 32 94
+rectangle 165 338 47 48 39
+triangle 40 111 18 70
+circle 209 84 13 150
+square 40 223 17 43
+rectangle 119 198 17 7 247
+triangle 29 395 13 144
+circle 154 244 4 230
+square 305 214 36 94
+rectangle 131 370 33 47 34
+triangle 69 339 28 65
+circle 142 263 17 95
+square 17 207 24 144
+rectangle 36 277 7 10 42
+triangle 384 19 1 30
+circle 357 214 25 5
+square 221 255 45 164
+rectangle 18 270 12 36 72
+triangle 191 367 21 173
+circle 223 63 22 241
+square 168 32 43 196
+rectangle 274 369 41 10 241
+triangle 194 67 18 216
+circle 224 119 34 99
+square 345 99 25 41
+rectangle 285 302 21 28 10
+triangle 219 129 18 78
+circle 259 217 26 139
+square 95 194 16 204
+rectangle 174 328 20 4 219
+triangle 268 221 29 160
+circle 59 361 15 124
+square 94 129 22 168
+rectangle 27 80 45 5 117
+triangle 275 265 36 119
+circle 298 193 27 11
+square 342 244 33 159
+rectangle 346 8 31 42 133
+triangle 5 56 19 16
+circle 27 130 42 90
+square 261 316 36 122
+rectangle 132 272 6 44 148
+triangle 288 34 37 177
+circle 11 309 33 121
+square 70 310 41 96
+rectangle 221 331 30 10 153
+triangle 75 388 27 148
+circle 300 319 17 221
+square 379 303 31 123
+rectangle 296 10 44 3 244
+triangle 187 44 35 223
+circle 281 173 11 196
+square 288 131 34 159
+rectangle 91 302 12 7 91
+triangle 303 365 19 54
+circle 399 262 26 251
+square 348 108 28 159
+rectangle 140 327 17 39 174
+triangle 294 275 46 147
+circle 40 142 16 132
+square 128 129 21 49
+rectangle 393 83 38 12 141
+triangle 301 60 5 18
+circle 211 293 14 242
+square 305 226 43 173
+rectangle 20 325 15 1 19
+triangle 246 72 34 14
+circle 309 293 25 213
+square 71 159 15 206
+rectangle 393 395 24 45 87
+triangle 252 56 46 65
+circle 266 178 25 172
+square 78 166 10 21
+rectangle 12 331 1 40 128
+triangle 75 98 45 137
+circle 264 306 35 115
+square 269 232 42 31
+rectangle 271 89 32 26 129
+triangle 8 253 16 152
+circle 25 166 34 167
+square 233 310 44 0
+rectangle 73 46 29 41 178
+triangle 186 99 13 233
+circle 302 204 9 222
+square 308 250 40 109
+rectangle 307 148 34 12 79
+triangle 33 93 2 18
+circle 99 310 34 148
+square 107 98 4 35
+rectangle 327 218 19 15 36
+triangle 235 322 4 219
+circle 305 174 45 111
+square 287 256 13 83
+rectangle 54 149 45 34 124
+triangle 367 87 17 229
+circle 62 97 8 132
+square 17 354 4 213
+rectangle 244 61 25 3 245
+triangle 227 143 19 3
+circle 244 370 18 25
+square 278 361 1 195
+rectangle 39 331 7 10 110
+triangle 257 64 5 206
+circle 244 337 46 176
+square 131 283 24 224
+rectangle 135 50 13 29 95
+triangle 340 216 49 107
+circle 357 169 7 128
+square 72 184 12 190
+rectangle 83 275 22 21 29
+triangle 225 363 42 238
+circle 220 262 38 68
+square 245 203 16 8
+rectangle 345 219 40 8 215
+triangle 358 162 4 19
+circle 204 16 18 64
+square 120 195 23 65
+rectangle 386 378 6 27 132
+triangle 186 363 6 118
+circle 263 79 23 32
+square 304 375 37 131
+rectangle 286 217 44 7 125
+triangle 326 208 19 209
+circle 69 371 26 56
+square 141 269 10 65
+rectangle 113 107 28 28 53
+triangle 245 78 22 29
+circle 250 262 36 226
+square 141 152 37 114
+rectangle 118 273 20 31 148
+triangle 255 48 42 215
+circle 183 194 39 229
+square 7 361 36 181
+rectangle 140 58 34 44 198
+triangle 261 139 24 77
+circle 201 380 41 17
+square 391 5 39 31
+rectangle 343 56 23 39 179
+triangle 113 109 31 125
+circle 105 275 47 215
+square 338 209 45 107
+rectangle 230 367 2 28 145
+triangle 306 251 26 103
+circle 41 223 17 91
+square 60 20 37 77
+rectangle 19 116 48 39 191
+triangle 125 54 6 121
+circle 223 309 34 43
+square 258 106 18 181
+rectangle 66 122 9 9 149
+triangle 279 264 20 23
+circle 260 375 47 63
+square 228 63 11 73
+rectangle 9 32 31 48 177
+triangle 5 87 36 61
+circle 186 346 8 183
+square 19 319 16 157
+rectangle 299 293 32 10 20
+triangle 20 231 49 168
+circle 37 276 34 70
+square 328 289 2 145
+rectangle 255 243 43 9 251
+triangle 334 161 17 167
+circle 158 245 48 180
+square 245 209 9 246
+rectangle 178 37 15 39 232
+triangle 171 357 26 71
+circle 270 172 23 132
+square 311 82 43 210
+rectangle 17 305 20 46 233
+triangle 224 102 7 182
+circle 305 167 15 33
+square 399 379 27 22
+rectangle 227 191 41 29 139
+triangle 119 81 18 240
+circle 157 65 3 167
+square 200 230 19 87
+rectangle 306 47 42 1 222
+triangle 190 353 15 119
+circle 104 20 31 234
+square 152 340 0 35
+rectangle 241 338 36 33 92
+triangle 302 223 48 198
+circle 116 340 39 181
+square 383 341 38 234
+rectangle 54 273 7 5 106
+triangle 11 169 28 127
+circle 174 113 10 109
+square 197 387 12 44
+rectangle 76 6 14 48 28
+triangle 14 238 46 116
+circle 18 147 34 110
+square 205 141 36 104
+rectangle 147 108 21 24 237
+triangle 317 25 9 35
+circle 138 369 5 4
+square 164 351 34 129
+rectangle 195 119 5 29 121
+triangle 349 386 48 149
+circle 391 81 13 24
+square 271 350 26 54
+rectangle 161 271 37 49 88
+triangle 96 309 19 174
+circle 301 290 34 251
+square 62 201 35 146
+rectangle 158 172 37 43 196
+triangle 149 198 18 103
+circle 18 105 18 173
+square 247 2 32 224
+rectangle 300 315 47 34 244
+triangle 375 177 33 98
+circle 81 205 42 180
+square 151 347 46 32
+rectangle 216 399 44 24 54
+triangle 238 189 3 164
+circle 275 201 34 73
+square 295 260 22 100
+rectangle 209 268 8 48 108
+triangle 165 344 49 121
+circle 265 24 39 177
+square 233 235 33 61
+rectangle 389 215 17 19 180
+triangle 103 154 18 30
+circle 46 52 35 173
+square 380 353 6 251
+rectangle 46 252 24 44 12
+triangle 383 16 24 100
+circle 343 312 23 106
+square 81 119 35 57
+rectangle 207 113 18 30 23
+triangle 115 248 8 63
+circle 255 316 33 173
+square 366 289 15 167
+rectangle 1 244 47 41 52
+triangle 257 307 11 158
+circle 351 397 22 208
+square 209 358 38 135
+rectangle 387 375 12 5 233
+triangle 77 74 14 1
+circle 207 198 24 211
+square 13 364 44 12
+rectangle 0 47 3 0 240
+triangle 345 144 14 211
+circle 66 92 26 81
+square 284 319 46 49
+rectangle 347 126 27 16 61
+triangle 316 316 19 86
+circle 288 123 9 170
+square 285 278 8 87
+rectangle 372 13 24 27 140
+triangle 211 180 39 146
+circle 55 320 8 173
+square 354 273 30 203
+rectangle 102 65 37 31 249
+triangle 364 182 32 218
+circle 13 34 46 232
+square 189 339 47 66
+rectangle 171 317 7 1 62
+triangle 282 55 19 211
+circle 209 354 28 6
+square 240 268 33 103
+rectangle 129 75 42 14 7
+triangle 294 10 49 169
+circle 278 128 37 4
+square 331 6 45 147
+rectangle 368 284 36 30 185
+triangle 120 16 46 32
+circle 256 80 48 157
+square 276 399 6 9
+rectangle 326 112 8 44 12
+triangle 383 205 48 6
+circle 361 271 11 180
+square 217 170 39 92
+rectangle 295 343 32 27 92
+triangle 294 202 26 90
+circle 396 49 16 10
+square 336 152 23 164
+rectangle 34 106 20 0 44
+triangle 307 257 46 69
+circle 315 269 19 229
+square 263 327 38 147
+rectangle 302 142 5 28 66
+triangle 356 256 34 208
+circle 169 17 5 242
+square 398 301 24 238
+rectangle 326 5 20 8 239
+triangle 104 266 35 252
+circle 360 49 29 110
+square 360 399 12 206
+rectangle 87 137 16 38 183
+triangle 289 74 9 86
+circle 85 58 29 22
+square 224 100 6 3
+rectangle 337 333 32 9 147
+triangle 241 24 30 212
+circle 80 168 40 174
+square 172 36 26 159
+rectangle 388 112 38 47 156
+triangle 8 333 39 23
+circle 394 250 26 8
+square 261 270 24 73
+rectangle 363 201 20 8 79
+triangle 53 160 44 75
+circle 291 20 11 163
+square 232 1 8 105
+rectangle 105 94 12 21 178
+triangle 330 259 25 215
+circle 5 81 13 180
+square 1 254 7 182
+rectangle 377 271 32 6 123
+triangle 379 275 43 182
+circle 75 381 27 48
+square 288 32 3 110
+rectangle 321 171 29 14 166
+triangle 277 205 11 155
+circle 55 168 29 254
+square 28 274 35 103
+rectangle 362 150 15 14 191
+triangle 110 358 36 9
+circle 87 331 45 213
+square 4 152 39 30
+rectangle 363 311 6 29 216
+triangle 151 44 8 73
+circle 54 38 6 108
+square 0 312 5 23
+rectangle 198 133 44 2 140
+triangle 281 33 2 34
+circle 300 119 37 235
+square 199 379 42 124
+rectangle 32 312 6 48 76
+triangle 164 173 34 251
+circle 286 127 44 94
+square 14 267 49 213
+rectangle 335 394 6 41 95
+triangle 10 388 10 243
+circle 157 51 29 133
+square 231 61 11 14
+rectangle 306 371 38 27 219
+triangle 344 130 32 202
+circle 54 20 32 31
+square 31 379 18 66
+rectangle 53 287 14 11 247
+triangle 278 25 5 145
+circle 77 362 43 199
+square 8 238 5 105
+rectangle 75 204 10 42 139
+triangle 222 13 4 166
+circle 112 373 24 222
+square 53 59 8 155
+rectangle 136 263 10 6 40
+triangle 235 354 26 78
+circle 172 373 34 48
+square 24 266 20 79
+rectangle 75 342 3 16 98
+triangle 367 386 40 165
+circle 180 70 30 169
+square 92 387 8 51
+rectangle 222 242 37 14 18
+triangle 235 122 47 104
+circle 316 19 30 197
+square 240 211 26 180
+rectangle 124 372 5 32 23
+triangle 92 362 17 220
+circle 228 359 30 135
+square 264 388 4 119
+rectangle 5 59 23 38 166
+triangle 62 346 18 98
+circle 63 256 9 81
+square 0 113 49 39
+rectangle 40 204 38 37 140
+triangle 394 356 10 150
+circle 217 339 36 214
+square 384 16 29 31
+rectangle 341 140 31 4 3
+triangle 107 67 5 205
+circle 173 280 17 83
+square 50 229 41 185
+rectangle 254 335 28 30 96
+triangle 11 251 41 140
+circle 50 0 32 147
+square 205 319 37 68
+rectangle 328 346 38 46 101
+triangle 145 287 10 127
+circle 202 236 30 28
+square 218 194 48 235
+rectangle 326 127 38 49 246
+triangle 313 7 37 15
+circle 70 84 18 174
+square 250 67 13 232
+rectangle 199 222 22 5 64
+triangle 369 387 31 81
+circle 290 57 1 136
+square 71 286 13 96
+rectangle 347 353 20 39 80
+triangle 16 245 44 228
+circle 68 272 18 119
+square 349 1 26 5
+rectangle 229 379 44 46 69
+triangle 207 379 23 60
+circle 213 48 6 143
+square 187 105 3 97
+rectangle 7 243 23 22 211
+triangle 334 111 47 42
+circle 178 297 34 231
+square 315 211 28 245
+rectangle 320 88 48 13 193
+triangle 234 217 13 32
+circle 112 12 27 150
+square 28 73 19 50
+rectangle 68 190 32 36 253
+triangle 309 397 29 229
+circle 302 314 7 46
+square 331 68 19 143
+rectangle 0 123 39 7 135
+triangle 65 274 17 206
+circle 134 302 12 198
+square 160 154 37 20
+rectangle 266 33 12 16 238
+triangle 111 381 21 236
+circle 291 338 7 65
+square 38 73 31 238
+rectangle 73 222 8 18 209
+triangle 20 293 36 1
+circle 353 40 35 131
+square 3 72 15 169
+rectangle 364 319 12 49 188
+triangle 53 210 7 127
+circle 229 96 16 55
+square 189 122 39 22
+rectangle 296 370 30 9 156
+triangle 125 235 27 112
+circle 395 149 43 203
+square 85 209 22 172
+rectangle 37 191 35 31 33
+triangle 302 384 34 199
+circle 265 263 17 247
+square 336 360 22 105
+rectangle 279 90 49 48 218
+triangle 1 286 9 52
+circle 336 18 24 149
+square 309 352 19 71
+rectangle 165 199 35 34 110
+triangle 295 34 44 104
+circle 352 285 6 38
+square 51 261 27 224
+rectangle 393 181 1 45 133
+triangle 97 298 39 98
+circle 387 145 25 84
+square 49 160 39 172
+rectangle 321 122 16 6 80
+triangle 371 88 24 70
+circle 52 264 0 102
+square 121 208 49 89
+rectangle 269 246 0 29 150
+triangle 82 73 40 195
+circle 368 272 25 175
+square 230 4 47 242
+rectangle 159 113 46 47 110
+triangle 79 344 33 78
+circle 56 221 16 24
+square 84 6 28 20
+rectangle 40 337 41 29 237
+triangle 170 145 17 39
+circle 353 371 30 26
+square 305 110 21 85
+rectangle 355 163 3 19 33
+triangle 71 264 48 32
+circle 55 187 33 46
+square 31 341 12 94
+rectangle 315 156 49 37 0
+triangle 326 142 20 20
+circle 378 328 44 205
+square 301 189 21 203
+rectangle 353 74 12 39 143
+triangle 358 162 43 63
+circle 142 206 39 150
+square 279 249 40 156
+rectangle 288 162 30 43 120
+triangle 145 3 28 241
+circle 362 354 26 115
+square 301 181 20 46
+rectangle 75 19 21 2 92
+triangle 399 291 37 111
+circle 366 243 20 64
+square 199 76 13 44
+rectangle 344 235 46 32 232
+triangle 82 46 33 120
+circle 183 115 21 131
+square 223 247 15 43
+rectangle 128 387 20 44 167
+triangle 99 134 12 162
+circle 216 285 11 149
+square 334 221 36 225
+rectangle 259 384 15 6 135
+triangle 218 45 47 182
+circle 57 172 42 33
+square 34 373 16 234
+rectangle 273 348 3 11 87
+triangle 243 279 17 150
+circle 2 129 19 78
+square 28 354 43 186
+rectangle 293 132 40 48 173
+triangle 192 64 31 246
+circle 376 77 21 5
+square 184 22 23 111
+rectangle 227 174 13 30 49
+triangle 365 41 35 229
+circle 383 161 44 214
+square 40 170 36 49
+rectangle 321 228 42 48 185
+triangle 263 177 11 57
+circle 285 331 44 126
+square 357 152 24 158
+rectangle 373 384 20 49 112
+triangle 124 373 47 238
+circle 73 254 43 20
+square 321 201 42 214
+rectangle 37 371 49 33 252
+triangle 52 114 1 48
+circle 154 247 22 201
+square 147 110 42 131
+rectangle 81 262 23 6 48
+triangle 3 353 39 177
+circle 69 110 44 206
+square 385 197 35 233
+rectangle 397 352 20 34 166
+triangle 173 260 14 214
+circle 286 239 48 67
+square 226 173 48 145
+rectangle 147 100 24 13 89
+triangle 25 302 9 17
+circle 366 294 16 157
+square 151 239 37 172
+rectangle 19 270 39 0 8
+triangle 266 244 14 146
+circle 389 120 28 113
+square 153 201 2 56
+rectangle 350 77 4 2 16
+triangle 185 183 47 188
+circle 259 337 16 117
+square 171 387 33 227
+rectangle 112 174 40 21 242
+triangle 185 392 32 219
+circle 60 268 22 0
+square 365 177 20 27
+rectangle 186 58 9 37 118
+triangle 349 196 0 91
+circle 300 241 48 188
+square 11 2 28 7
+rectangle 362 238 8 5 117
+triangle 187 325 0 75
+circle 116 149 25 2
+square 278 244 47 214
+rectangle 177 192 30 31 77
+triangle 161 212 24 185
+circle 4 340 44 24
+square 26 354 31 15
+rectangle 183 269 0 37 237
+triangle 385 39 9 93
+circle 93 23 25 222
+square 349 229 49 15
+rectangle 61 204 38 41 140
+triangle 392 5 31 141
+circle 168 336 28 124
+square 204 22 49 120
+rectangle 73 283 43 8 104
+triangle 102 293 2 167
+circle 300 302 13 130
+square 40 304 36 116
+rectangle 248 305 47 5 225
+triangle 125 155 38 184
+circle 337 30 28 231
+square 21 256 14 13
+rectangle 85 95 31 9 248
+triangle 196 310 29 173
+circle 355 253 34 19
+square 301 199 37 61
+rectangle 184 289 3 37 251
+triangle 20 313 32 210
+circle 145 124 32 225
+square 118 20 45 202
+rectangle 368 234 40 35 94
+triangle 332 140 21 12
+circle 250 392 28 186
+square 398 394 11 217
+rectangle 49 183 27 14 61
+triangle 328 118 43 176
+circle 13 57 12 116
+square 25 275 27 178
+rectangle 2 110 24 5 106
+triangle 316 391 12 116
+circle 265 194 32 245
+square 228 366 44 177
+rectangle 139 295 42 49 171
+triangle 376 324 41 16
+circle 373 289 5 64
+square 91 343 33 235
+rectangle 333 189 8 14 225
+triangle 60 124 6 132
+circle 362 89 29 122
+square 384 281 11 160
+rectangle 279 317 2 24 188
+triangle 232 130 34 152
+circle 126 314 40 77
+square 37 316 45 113
+rectangle 207 253 30 12 158
+triangle 229 242 40 185
+circle 237 240 35 74
+square 28 111 49 245
+rectangle 226 335 45 19 142
+triangle 254 33 19 76
+circle 46 47 24 208
+square 194 362 47 96
+rectangle 337 171 4 13 64
+triangle 76 397 14 138
+circle 252 177 11 134
+square 382 225 47 126
+rectangle 387 92 39 15 243
+triangle 327 3 20 57
+circle 265 167 27 114
+square 194 261 2 102
+rectangle 58 6 0 44 132
+triangle 374 237 32 86
+circle 218 394 29 117
+square 371 367 9 74
+rectangle 139 24 26 46 64
+triangle 223 139 42 149
+circle 76 198 22 1
+square 116 62 16 174
+rectangle 98 257 38 17 9
+triangle 127 352 33 46
+circle 348 13 46 183
+square 256 272 23 93
+rectangle 65 394 17 8 172
+triangle 373 154 15 112
+circle 233 335 1 195
+square 149 339 40 124
+rectangle 65 252 47 39 236
+triangle 54 56 6 105
+circle 250 62 48 140
+square 279 392 49 242
+rectangle 157 252 30 33 156
+triangle 217 361 25 1
+circle 122 102 0 54
+square 91 127 39 159
+rectangle 188 365 23 34 210
+triangle 232 223 1 243
+circle 169 249 12 35
+square 333 343 29 137
+rectangle 300 244 22 43 149
+triangle 153 56 16 101
+circle 122 324 46 132
+square 148 3 7 110
+rectangle 204 268 21 33 109
+triangle 398 234 2 64
+circle 356 78 3 104
+square 263 179 12 25
+rectangle 92 132 43 8 159
+triangle 41 53 37 167
+circle 39 266 1 116
+square 150 257 24 172
+rectangle 374 83 14 39 209
+triangle 149 212 35 7
+circle 239 156 1 222
+square 138 348 27 120
+rectangle 90 73 6 25 197
+triangle 102 65 36 47
+circle 239 161 21 103
+square 82 239 29 114
+rectangle 206 77 42 18 131
+triangle 179 18 36 221
+circle 239 256 6 249
+square 96 221 18 34
+rectangle 341 287 43 37 56
+triangle 175 352 7 222
+circle 73 330 16 26
+square 177 17 11 14
+rectangle 42 20 45 29 211
+triangle 115 384 21 25
+circle 134 261 11 180
+square 34 275 44 117
+rectangle 78 138 32 6 14
+triangle 183 357 4 15
+circle 216 296 13 244
+square 201 185 9 44
+rectangle 179 113 7 34 71
+triangle 243 239 38 0
+circle 172 398 24 17
+square 15 154 46 183
+rectangle 234 222 25 34 208
+triangle 154 210 38 129
+circle 120 253 17 216
+square 92 218 24 51
+rectangle 160 357 28 26 241
+triangle 20 276 15 152
+circle 319 183 15 190
+square 106 307 21 179
+rectangle 370 377 21 7 82
+triangle 156 375 40 77
+circle 362 271 18 11
+square 396 221 12 74
+rectangle 39 58 24 6 83
+triangle 388 79 48 232
+circle 126 80 49 116
+square 285 209 45 197
+rectangle 15 366 19 28 4
+triangle 111 76 25 230
+circle 43 30 28 150
+square 394 147 35 143
+rectangle 23 252 11 9 183
+triangle 339 227 28 102
+circle 343 300 46 30
+square 238 291 34 148
+rectangle 32 139 16 38 122
+triangle 264 32 44 223
+circle 358 211 31 127
+square 29 352 45 143
+rectangle 13 391 5 27 170
+triangle 100 222 30 30
+circle 141 103 12 35
+square 196 111 26 30
+rectangle 154 146 30 0 175
+triangle 32 149 7 132
+circle 236 232 22 31
+square 272 114 41 44
+rectangle 355 208 14 4 158
+triangle 198 147 46 220
+circle 80 277 11 254
+square 371 266 27 2
+rectangle 292 101 16 12 216
+triangle 110 324 26 140
+circle 399 366 3 187
+square 78 186 25 236
+rectangle 336 150 39 44 3
+triangle 393 124 10 225
+circle 150 277 12 194
+square 93 113 3 52
+rectangle 328 325 25 0 175
+triangle 50 80 2 79
+circle 183 129 47 18
+square 45 190 2 11
+rectangle 242 100 22 2 47
+triangle 60 109 48 236
+circle 300 48 5 4
+square 212 48 21 22
+rectangle 374 234 44 39 251
+triangle 345 334 18 190
+circle 140 234 41 99
+square 167 207 47 100
+rectangle 277 299 4 45 79
+triangle 85 156 39 153
+circle 148 23 48 40
+square 291 39 33 120
+rectangle 240 93 45 36 71
+triangle 69 287 25 200
+circle 293 187 32 241
+square 310 239 7 58
+rectangle 285 297 34 6 6
+triangle 240 145 35 110
+circle 212 83 46 218
+square 398 399 7 152
+rectangle 292 379 16 21 160
+triangle 83 51 5 84
+circle 73 348 10 120
+square 355 255 45 140
+rectangle 354 51 2 16 97
+triangle 394 221 1 215
+circle 26 103 32 2
+square 44 20 2 220
+rectangle 196 170 38 5 131
+triangle 137 79 16 87
+circle 131 207 3 30
+square 47 191 37 227
+rectangle 312 220 35 38 7
+triangle 5 160 22 144
+circle 158 37 47 75
+square 201 51 33 119
+rectangle 52 149 35 2 254
+triangle 190 269 24 147
+circle 290 74 21 125
+square 329 15 39 29
+rectangle 19 207 17 22 108
+triangle 284 96 16 32
+circle 229 9 17 7
+square 287 59 47 200
+rectangle 86 118 32 44 137
+triangle 153 66 46 50
+circle 327 3 46 92
+square 360 314 8 208
+rectangle 100 187 46 14 55
+triangle 191 165 28 82
+circle 150 375 31 120
+square 358 375 6 73
+rectangle 15 363 0 21 119
+triangle 311 153 15 106
+circle 19 79 10 200
+square 152 367 6 80
+rectangle 281 348 8 19 20
+triangle 137 293 5 84
+circle 355 99 11 20
+square 382 36 14 90
+rectangle 106 257 44 27 172
+triangle 125 298 36 142
+circle 212 286 19 191
+square 197 275 7 143
+rectangle 48 251 3 28 5
+triangle 107 48 33 220
+circle 96 376 44 55
+square 272 220 46 22
+rectangle 66 27 49 5 203
+triangle 345 146 23 3
+circle 202 279 22 99
+square 46 216 46 86
+rectangle 57 137 36 33 114
+triangle 237 306 42 11
+circle 395 58 45 82
+square 47 199 48 130
+rectangle 115 353 22 15 127
+triangle 394 394 23 103
+circle 112 236 11 225
+square 304 79 12 203
+rectangle 274 93 21 1 198
+triangle 348 48 17 222
+circle 14 102 39 30
+square 196 370 48 174
+rectangle 53 228 42 16 20
+triangle 48 154 48 204
+circle 235 30 46 219
+square 89 140 48 170
+rectangle 333 340 36 9 105
+triangle 124 263 18 0
+circle 34 39 18 102
+square 339 71 25 21
+rectangle 194 122 24 45 91
+triangle 394 169 9 243
+circle 114 3 15 217
+square 27 347 41 16
+rectangle 263 198 8 5 166
+triangle 276 392 15 29
+circle 291 216 29 127
+square 233 56 32 27
+rectangle 178 248 14 8 121
+triangle 337 191 8 191
+circle 335 327 46 242
+square 269 313 42 144
+rectangle 326 115 32 47 178
+triangle 390 362 33 247
+circle 331 132 47 193
+square 331 160 19 32
+rectangle 311 53 49 23 57
+triangle 265 61 10 161
+circle 246 369 28 109
+square 185 170 33 62
+rectangle 333 241 32 10 162
+triangle 185 96 11 65
+circle 197 381 17 93
+square 349 93 27 233
+rectangle 41 92 13 16 250
+triangle 134 220 30 133
+circle 315 8 5 176
+square 191 178 5 250
+rectangle 14 378 30 11 6
+triangle 212 115 48 185
+circle 95 88 43 12
+square 101 188 38 36
+rectangle 189 105 24 31 26
+triangle 131 123 12 114
+circle 14 179 19 36
+square 353 85 15 220
+rectangle 206 268 37 9 94
+triangle 266 43 16 45
+circle 308 88 2 163
+square 17 139 15 168
+rectangle 383 147 28 7 77
+triangle 277 307 6 158
+circle 248 96 19 178
+square 344 269 35 14
+rectangle 306 96 49 26 164
+triangle 73 34 14 27
+circle 214 87 25 181
+square 288 201 33 48
+rectangle 45 2 42 36 136
+triangle 197 288 47 228
+circle 207 161 45 15
+square 308 21 0 189
+rectangle 296 96 27 20 71
+triangle 115 22 19 164
+circle 190 345 19 37
+square 320 392 32 213
+rectangle 374 284 8 6 217
+triangle 31 183 34 216
+circle 269 4 48 215
+square 280 132 20 34
+rectangle 322 209 40 31 111
+triangle 340 187 31 231
+circle 199 91 3 49
+square 273 46 7 84
+rectangle 18 27 8 21 154
+triangle 321 70 37 27
+circle 204 318 14 172
+square 129 381 37 188
+rectangle 32 51 16 14 160
+triangle 245 191 43 141
+circle 15 275 39 111
+square 14 6 23 150
+rectangle 148 388 22 29 132
+triangle 172 348 3 23
+circle 345 363 23 121
+square 112 102 0 8
+rectangle 203 177 40 34 105
+triangle 80 58 16 112
+circle 173 8 36 152
+square 237 90 31 203
+rectangle 72 259 28 47 73
+triangle 78 71 17 115
+circle 251 76 12 153
+square 91 54 48 84
+rectangle 192 23 1 25 55
+triangle 217 304 12 67
+circle 336 250 19 184
+square 257 342 6 230
+rectangle 240 50 49 18 49
+triangle 112 161 4 111
+circle 115 116 47 195
+square 235 366 15 95
+rectangle 242 356 16 45 109
+triangle 315 239 45 247
+circle 397 229 40 201
+square 290 222 7 248
+rectangle 33 225 5 33 253
+triangle 303 292 2 85
+circle 283 68 45 196
+square 241 340 45 94
+rectangle 332 344 10 40 85
+triangle 165 391 37 124
+circle 334 176 25 210
+square 92 34 19 15
+rectangle 126 76 9 45 140
+triangle 16 314 34 143
+circle 213 142 23 213
+square 258 219 35 89
+rectangle 377 287 32 41 198
+triangle 360 163 43 144
+circle 187 6 7 130
+square 185 152 48 68
+rectangle 213 385 40 24 230
+triangle 285 87 16 142
+circle 268 370 8 133
+square 220 194 39 115
+rectangle 228 301 21 40 121
+triangle 159 192 38 7
+circle 165 380 39 122
+square 55 234 7 183
+rectangle 320 39 47 27 29
+triangle 395 335 1 155
+circle 289 366 26 233
+square 300 295 0 199
+rectangle 221 302 32 19 49
+triangle 276 197 35 167
+circle 140 316 28 28
+square 107 155 49 52
+rectangle 208 2 46 8 164
+triangle 19 225 3 232
+circle 282 280 18 0
+square 306 334 36 141
+rectangle 180 166 26 28 127
+triangle 101 208 17 116
+circle 186 352 27 233
+square 271 29 46 96
+rectangle 143 37 23 18 138
+triangle 388 263 18 110
+circle 234 87 37 52
+square 366 211 10 111
+rectangle 382 316 24 18 178
+triangle 241 116 23 44
+circle 29 257 11 107
+square 8 361 0 142
+rectangle 232 178 19 44 24
+triangle 71 273 21 99
+circle 254 249 11 100
+square 240 172 31 33
+rectangle 120 79 30 28 81
+triangle 303 303 16 155
+circle 329 112 20 213
+square 319 265 43 161
+rectangle 6 31 17 32 48
+triangle 150 190 8 159
+circle 279 172 20 222
+square 307 185 18 186
+rectangle 374 230 39 38 61
+triangle 20 20 32 176
+circle 263 14 16 103
+square 33 119 23 157
+rectangle 294 297 40 42 46
+triangle 194 158 47 205
+circle 132 241 9 202
+square 224 141 1 156
+rectangle 199 272 32 41 186
+triangle 147 91 43 98
+circle 180 26 29 32
+square 257 149 37 233
+rectangle 305 153 11 49 117
+triangle 60 317 5 54
+circle 19 93 7 8
+square 339 128 24 149
+rectangle 207 199 30 6 129
+triangle 329 374 32 178
+circle 251 189 43 14
+square 121 236 49 6
+rectangle 285 124 27 24 45
+triangle 325 129 2 189
+circle 184 261 0 69
+square 299 288 38 91
+rectangle 21 8 49 43 30
+triangle 29 384 47 145
+circle 122 245 41 250
+square 362 97 4 143
+rectangle 114 3 39 32 46
+triangle 212 295 28 89
+circle 184 23 48 181
+square 202 288 44 121
+rectangle 90 337 2 25 133
+triangle 121 272 36 94
+circle 283 392 19 189
+square 285 3 15 131
+rectangle 25 264 3 16 139
+triangle 381 284 11 215
+circle 162 185 41 204
+square 192 288 34 92
+rectangle 76 99 32 2 38
+triangle 233 148 20 106
+circle 279 92 29 50
+square 125 233 30 134
+rectangle 230 48 17 16 59
+triangle 294 350 29 132
+circle 269 130 45 53
+square 191 366 13 30
+rectangle 148 222 25 9 61
+triangle 367 260 48 152
+circle 66 109 24 185
+square 141 355 22 236
+rectangle 155 354 38 19 48
+triangle 90 322 0 106
+circle 61 336 7 26
+square 299 240 35 49
+rectangle 346 112 33 20 130
+triangle 362 228 5 184
+circle 58 306 46 175
+square 284 196 41 193
+rectangle 2 3 24 19 40
+triangle 118 203 24 11
+circle 267 188 8 23
+square 143 250 25 174
+rectangle 230 108 0 6 183
+triangle 307 386 42 192
+circle 4 184 15 130
+square 215 374 34 126
+rectangle 84 60 41 28 184
+triangle 260 53 13 113
+circle 46 222 42 178
+square 134 315 10 128
+rectangle 391 89 31 48 21
+triangle 267 303 48 226
+circle 203 105 22 126
+square 353 354 7 253
+rectangle 304 192 8 40 211
+triangle 357 240 3 10
+circle 89 198 3 194
+square 263 26 18 86
+rectangle 399 38 42 1 140
+triangle 8 139 43 178
+circle 3 88 31 188
+square 257 348 49 141
+rectangle 33 169 19 29 247
+triangle 104 27 9 87
+circle 10 155 37 150
+square 369 203 6 188
+rectangle 22 337 31 28 201
+triangle 312 231 28 155
+circle 176 28 7 170
+square 307 137 47 48
+rectangle 258 399 28 20 222
+triangle 293 275 0 49
+circle 9 250 33 220
+square 143 308 39 145
+rectangle 167 241 34 11 238
+triangle 330 382 42 46
+circle 22 373 21 241
+square 29 176 5 232
+rectangle 261 32 4 15 245
+triangle 283 227 18 166
+circle 314 322 41 244
+square 75 369 14 185
+rectangle 75 236 28 43 224
+triangle 281 276 41 126
+circle 367 275 2 243
+square 58 30 45 189
+rectangle 306 313 33 11 30
+triangle 69 211 9 151
+circle 350 73 7 45
+square 340 181 11 231
+rectangle 239 354 26 17 89
+triangle 140 130 24 205
+circle 231 244 30 160
+square 24 258 31 71
+rectangle 197 129 21 11 56
+triangle 227 312 19 20
+circle 309 220 0 220
+square 282 307 46 143
+rectangle 371 299 49 9 34
+triangle 27 60 21 147
+circle 219 106 31 191
+square 312 117 46 71
+rectangle 31 302 38 22 84
+triangle 69 31 26 9
+circle 313 252 20 203
+square 237 390 27 85
+rectangle 142 107 47 32 239
+triangle 266 330 42 76
+circle 199 326 3 179
+square 349 166 9 160
+rectangle 16 172 31 9 149
+triangle 225 164 37 201
+circle 210 316 30 232
+square 385 350 37 30
+rectangle 49 256 20 17 144
+triangle 92 151 0 1
+circle 284 217 2 143
+square 189 198 29 19
+rectangle 89 33 37 1 6
+triangle 130 59 35 37
+circle 379 103 7 45
+square 379 1 34 138
+rectangle 149 202 13 21 157
+triangle 385 209 29 100
+circle 171 302 18 4
+square 82 208 5 221
+rectangle 262 126 27 46 190
+triangle 153 110 29 131
+circle 182 390 1 152
+square 1 283 15 60
+rectangle 16 336 0 2 244
+triangle 282 5 46 183
+circle 398 33 49 110
+square 140 270 35 253
+rectangle 381 398 7 21 111
+triangle 311 340 19 40
+circle 248 85 14 127
+square 136 120 30 196
+rectangle 110 111 22 27 220
+triangle 329 147 17 164
+circle 101 316 37 193
+square 316 393 10 240
+rectangle 218 163 18 40 174
+triangle 49 175 47 142
+circle 287 153 2 134
+square 159 26 36 128
+rectangle 18 334 41 19 1
+triangle 190 311 22 123
+circle 332 392 0 27
+square 81 219 46 80
+rectangle 60 182 28 16 195
+triangle 98 46 15 130
+circle 356 328 2 234
+square 71 378 14 72
+rectangle 173 39 3 6 129
+triangle 343 252 27 162
+circle 92 225 46 198
+square 65 90 20 87
+rectangle 89 187 11 4 37
+triangle 261 229 41 76
+circle 28 288 32 30
+square 234 228 18 29
+rectangle 22 347 8 7 34
+triangle 167 11 12 247
+circle 120 13 47 160
+square 266 177 38 200
+rectangle 67 339 46 35 78
+triangle 37 85 21 172
+circle 119 364 22 215
+square 214 355 45 84
+rectangle 31 273 3 12 133
+triangle 147 148 45 124
+circle 227 322 12 203
+square 2 13 21 22
+rectangle 349 233 27 34 77
+triangle 191 354 16 196
+circle 314 139 9 118
+square 320 182 26 156
+rectangle 273 81 14 33 88
+triangle 138 236 1 230
+circle 296 118 36 147
+square 3 315 46 136
+rectangle 325 90 48 4 252
+triangle 208 101 12 228
+circle 148 20 0 100
+square 238 104 34 107
+rectangle 392 348 0 44 61
+triangle 252 277 25 110
+circle 379 301 27 105
+square 147 302 34 67
+rectangle 125 163 13 45 103
+triangle 318 137 44 157
+circle 155 144 25 107
+square 247 43 8 26
+rectangle 151 157 31 41 108
+triangle 253 320 1 67
+circle 244 48 19 167
+square 149 206 47 37
+rectangle 269 362 24 31 199
+triangle 137 349 19 77
+circle 396 132 16 166
+square 252 311 33 107
+rectangle 2 323 29 21 217
+triangle 224 90 17 101
+circle 121 182 15 164
+square 20 248 34 168
+rectangle 129 207 26 45 63
+triangle 61 266 6 159
+circle 211 217 41 216
+square 221 72 5 171
+rectangle 97 377 0 26 180
+triangle 98 21 19 68
+circle 213 154 47 0
+square 149 122 15 8
+rectangle 206 140 45 8 189
+triangle 353 79 16 229
+circle 193 269 35 162
+square 74 139 11 34
+rectangle 265 24 44 27 61
+triangle 130 269 28 123
+circle 388 253 3 100
+square 250 205 7 218
+rectangle 365 180 36 2 137
+triangle 386 364 14 252
+circle 274 116 34 41
+square 283 354 32 171
+rectangle 170 281 15 23 194
+triangle 53 393 24 221
+circle 202 345 40 65
+square 352 321 28 19
+rectangle 270 24 30 1 202
+triangle 85 230 30 81
+circle 271 183 4 16
+square 177 98 12 0
+rectangle 254 359 36 16 177
+triangle 21 134 6 254
+circle 384 144 3 17
+square 119 31 19 236
+rectangle 151 36 43 42 151
+triangle 349 228 1 200
+circle 323 9 3 210
+square 235 304 28 137
+rectangle 179 210 25 31 21
+triangle 186 64 15 166
+circle 221 37 20 132
+square 189 20 49 65
+rectangle 331 274 43 29 174
+triangle 344 40 14 233
+circle 14 135 26 11
+square 118 52 32 156
+rectangle 159 223 42 7 86
+triangle 238 349 25 155
+circle 281 125 4 177
+square 249 204 31 137
+rectangle 265 87 45 3 59
+triangle 167 59 41 39
+circle 135 285 20 52
+square 32 167 40 161
+rectangle 361 68 29 30 170
+triangle 362 111 23 80
+circle 369 158 45 208
+square 311 9 10 157
+rectangle 229 187 49 36 154
+triangle 92 249 11 227
+circle 83 179 43 38
+square 228 318 16 5
+rectangle 293 276 28 42 222
+triangle 223 288 20 87
+circle 251 367 39 167
+square 79 106 18 137
+rectangle 387 194 23 44 95
+triangle 35 306 41 232
+circle 304 244 8 163
+square 50 54 30 141
+rectangle 188 156 34 48 246
+triangle 185 329 34 189
+circle 276 228 44 84
+square 41 244 27 163
+rectangle 107 40 33 27 150
+triangle 81 148 37 250
+circle 210 215 37 95
+square 332 243 34 175
+rectangle 316 33 23 24 118
+triangle 357 155 30 47
+circle 266 338 32 76
+square 266 246 32 185
+rectangle 28 157 3 38 82
+triangle 120 392 38 5
+circle 1 286 23 254
+square 248 263 21 229
+rectangle 8 289 28 39 73
+triangle 254 100 22 247
+circle 286 107 28 70
+square 329 46 46 92
+rectangle 331 394 3 35 158
+triangle 148 78 23 191
+circle 198 238 23 114
+square 34 132 31 75
+rectangle 327 134 31 28 126
+triangle 157 9 28 104
+circle 203 73 26 214
+square 34 31 21 204
+rectangle 261 149 40 21 66
+triangle 397 8 27 137
+circle 271 92 32 113
+square 316 245 20 206
+rectangle 347 118 2 1 148
+triangle 86 295 1 89
+circle 320 237 45 17
+square 231 102 39 9
+rectangle 129 31 38 9 89
+triangle 149 192 47 248
+circle 284 112 20 65
+square 43 337 21 201
+rectangle 192 322 7 13 208
+triangle 37 82 22 143
+circle 89 280 29 37
+square 170 195 41 96
+rectangle 266 129 30 1 199
+triangle 2 136 0 145
+circle 329 161 28 215
+square 184 304 20 221
+rectangle 207 323 2 40 48
+triangle 247 375 47 242
+circle 37 220 36 244
+square 147 260 36 70
+rectangle 344 364 4 29 95
+triangle 270 343 21 216
+circle 85 151 11 185
+square 330 393 43 16
+rectangle 125 99 30 34 161
+triangle 85 100 2 156
+circle 210 185 49 123
+square 94 309 37 175
+rectangle 368 381 28 15 164
+triangle 261 127 19 84
+circle 100 59 20 221
+square 198 110 9 147
+rectangle 10 63 19 43 100
+triangle 241 333 43 136
+circle 257 197 40 78
+square 210 298 47 86
+rectangle 220 93 8 28 164
+triangle 90 11 42 206
+circle 194 154 16 130
+square 341 250 14 21
+rectangle 173 293 29 34 151
+triangle 218 219 5 87
+circle 236 372 14 61
+square 302 66 12 151
+rectangle 380 6 11 3 96
+triangle 262 120 29 154
+circle 279 312 48 85
+square 128 314 20 248
+rectangle 345 367 25 29 175
+triangle 386 57 42 47
+circle 162 296 8 234
+square 198 360 35 4
+rectangle 286 16 23 16 210
+triangle 359 168 48 110
+circle 49 191 16 184
+square 364 220 28 169
+rectangle 187 188 39 40 175
+triangle 135 262 37 68
+circle 85 75 2 43
+square 342 44 41 184
+rectangle 308 59 8 35 153
+triangle 89 120 41 81
+circle 208 116 44 196
+square 73 11 2 53
+rectangle 216 380 1 34 62
+triangle 83 255 49 150
+circle 91 76 10 99
+square 306 384 28 146
+rectangle 394 31 24 20 50
+triangle 8 82 49 248
+circle 81 131 1 202
+square 352 207 34 234
+rectangle 369 395 27 47 102
+triangle 149 204 31 71
+circle 232 195 32 210
+square 134 366 31 20
+rectangle 353 63 49 13 66
+triangle 6 107 20 60
+circle 323 363 27 9
+square 304 109 13 95
+rectangle 394 72 19 7 180
+triangle 341 216 35 157
+circle 193 21 48 190
+square 323 225 28 92
+rectangle 124 16 17 2 6
+triangle 147 321 11 78
+circle 383 128 15 141
+square 48 99 13 218
+rectangle 0 164 19 36 18
+triangle 83 351 8 132
+circle 293 54 17 214
+square 11 224 36 130
+rectangle 146 183 27 47 218
+triangle 305 351 2 16
+circle 190 126 40 9
+square 115 112 43 124
+rectangle 331 62 22 12 29
+triangle 188 188 38 1
+circle 121 7 36 54
+square 247 180 21 50
+rectangle 129 0 11 21 57
+triangle 320 395 6 254
+circle 268 27 7 193
+square 236 392 5 252
+rectangle 81 19 17 16 99
+triangle 281 183 5 90
+circle 50 234 3 201
+square 255 374 31 82
+rectangle 3 311 16 40 75
+triangle 38 227 5 213
+circle 138 83 21 205
+square 296 211 48 22
+rectangle 129 154 48 0 21
+triangle 247 67 49 217
+circle 164 54 0 22
+square 362 82 35 85
+rectangle 272 33 14 23 60
+triangle 94 368 28 146
+circle 385 34 49 33
+square 248 386 17 22
+rectangle 364 121 16 28 26
+triangle 208 123 29 37
+circle 359 47 48 234
+square 232 125 9 154
+rectangle 250 329 14 13 3
+triangle 184 217 10 37
+circle 30 92 16 184
+square 294 121 26 245
+rectangle 360 342 12 12 174
+triangle 165 3 25 2
+circle 126 192 41 71
+square 305 91 37 85
+rectangle 232 128 40 10 248
+triangle 154 168 1 243
+circle 26 219 48 9
+square 68 15 42 42
+rectangle 229 284 49 49 65
+triangle 219 316 16 77
+circle 97 327 32 42
+square 56 303 25 85
+rectangle 153 88 25 37 62
+triangle 120 310 25 253
+circle 364 73 29 252
+square 127 386 38 82
+rectangle 121 82 10 24 154
+triangle 95 34 24 127
+circle 153 309 40 187
+square 47 114 41 36
+rectangle 258 162 38 44 88
+triangle 26 206 29 146
+circle 330 66 15 44
+square 195 164 43 221
+rectangle 272 136 33 14 33
+triangle 198 395 42 152
+circle 48 45 12 115
+square 354 348 14 14
+rectangle 335 8 37 49 92
+triangle 45 146 23 214
+circle 31 124 41 18
+square 224 179 22 79
+rectangle 30 159 39 34 248
+triangle 97 74 49 120
+circle 297 96 29 88
+square 282 343 6 72
+rectangle 180 233 22 42 216
+triangle 76 345 4 175
+circle 219 223 6 162
+square 369 183 31 9
+rectangle 22 101 49 7 247
+triangle 55 378 19 101
+circle 161 79 19 118
+square 295 178 40 102
+rectangle 1 53 25 18 93
+triangle 288 356 27 160
+circle 176 306 15 59
+square 275 256 45 23
+rectangle 292 14 7 12 101
+triangle 97 194 32 70
+circle 255 137 13 36
+square 258 365 17 81
+rectangle 27 82 39 46 125
+triangle 297 179 44 28
+circle 115 38 40 70
+square 362 214 15 180
+rectangle 204 2 17 37 82
+triangle 286 97 25 5
+circle 381 381 25 216
+square 398 319 4 39
+rectangle 75 364 43 19 246
+triangle 280 234 43 193
+circle 74 152 35 145
+square 288 24 46 28
+rectangle 265 307 36 41 113
+triangle 34 102 2 142
+circle 81 339 11 170
+square 105 208 12 92
+rectangle 269 75 34 20 93
+triangle 99 145 7 169
+circle 303 207 17 209
+square 155 140 37 195
+rectangle 287 378 2 12 177
+triangle 367 232 15 146
+circle 273 2 49 119
+square 33 195 39 125
+rectangle 132 314 34 49 1
+triangle 11 184 49 111
+circle 72 111 15 84
+square 81 83 9 165
+rectangle 207 193 49 17 113
+triangle 273 314 29 206
+circle 8 169 3 199
+square 192 150 2 176
+rectangle 62 302 29 28 49
+triangle 1 56 27 76
+circle 26 9 15 250
+square 394 111 16 72
+rectangle 171 330 23 28 112
+triangle 200 200 31 52
+circle 105 134 43 37
+square 198 187 8 94
+rectangle 142 141 0 11 57
+triangle 110 82 21 135
+circle 56 85 15 76
+square 235 70 29 52
+rectangle 158 14 1 34 254
+triangle 306 217 35 120
+circle 277 110 13 162
+square 63 369 15 53
+rectangle 389 296 34 14 243
+triangle 337 387 27 146
+circle 72 15 6 226
+square 71 240 0 190
+rectangle 87 78 41 26 129
+triangle 141 273 45 44
+circle 67 261 5 10
+square 236 81 30 188
+rectangle 302 9 38 17 20
+triangle 200 257 3 13
+circle 324 352 40 241
+square 155 147 21 191
+rectangle 266 80 35 25 67
+triangle 79 314 35 218
+circle 35 149 29 106
+square 143 386 8 181
+rectangle 112 69 48 47 91
+triangle 316 285 29 231
+circle 361 233 6 94
+square 255 271 14 122
+rectangle 373 310 26 21 9
+triangle 65 20 10 88
+circle 372 37 45 116
+square 251 179 4 251
+rectangle 355 235 20 5 0
+triangle 328 167 24 33
+circle 240 290 31 29
+square 75 143 20 195
+rectangle 62 313 21 37 231
+triangle 334 33 46 193
+circle 219 235 48 51
+square 288 116 9 81
+rectangle 216 301 3 10 132
+triangle 364 278 25 139
+circle 331 284 21 76
+square 164 329 16 24
+rectangle 71 244 44 17 221
+triangle 385 239 17 47
+circle 17 175 39 49
+square 254 219 46 44
+rectangle 164 294 24 18 4
+triangle 220 242 34 27
+circle 373 272 1 55
+square 226 257 27 117
+rectangle 131 170 40 15 65
+triangle 92 55 19 103
+circle 355 51 28 230
+square 352 223 45 84
+rectangle 165 122 4 24 67
+triangle 215 111 15 49
+circle 63 2 3 43
+square 79 95 10 26
+rectangle 41 353 40 48 225
+triangle 20 184 42 239
+circle 283 157 42 113
+square 34 0 41 142
+rectangle 156 40 38 19 212
+triangle 353 266 27 26
+circle 376 265 34 136
+square 376 12 6 103
+rectangle 94 202 22 35 209
+triangle 106 389 12 102
+circle 177 173 10 21
+square 295 147 47 205
+rectangle 387 193 47 46 94
+triangle 399 311 12 144
+circle 389 359 4 21
+square 41 8 26 42
+rectangle 132 385 24 49 57
+triangle 323 241 11 239
+circle 2 221 5 245
+square 91 193 44 244
+rectangle 298 95 7 37 55
+triangle 40 323 40 182
+circle 257 33 20 130
+square 51 366 30 253
+rectangle 127 158 11 8 185
+triangle 266 369 29 172
+circle 102 106 29 233
+square 122 153 42 73
+rectangle 238 49 15 38 196
+triangle 363 105 26 63
+circle 373 268 31 205
+square 132 164 15 42
+rectangle 145 155 2 4 35
+triangle 271 41 1 170
+circle 275 314 19 167
+square 392 341 24 114
+rectangle 384 123 14 28 194
+triangle 371 253 27 45
+circle 352 399 13 37
+square 12 113 32 110
+rectangle 275 233 41 11 253
+triangle 330 288 1 151
+circle 55 300 26 165
+square 222 363 45 0
+rectangle 181 373 44 2 206
+triangle 318 190 1 11
+circle 345 50 14 87
+square 200 383 12 149
+rectangle 364 145 28 3 19
+triangle 173 24 2 36
+circle 184 66 4 102
+square 25 340 39 61
+rectangle 42 59 1 35 142
+triangle 367 230 23 12
+circle 284 355 46 251
+square 323 0 36 200
+rectangle 364 297 6 7 151
+triangle 247 211 8 97
+circle 378 13 28 79
+square 68 33 17 33
+rectangle 245 232 41 0 190
+triangle 171 13 15 194
+circle 55 234 14 43
+square 348 260 6 23
+rectangle 17 275 26 26 0
+triangle 100 117 13 83
+circle 197 145 14 163
+square 105 370 1 169
+rectangle 254 102 6 47 225
+triangle 86 37 49 242
+circle 25 312 36 39
+square 170 77 35 39
+rectangle 323 213 10 1 251
+triangle 81 370 32 183
+circle 316 72 0 238
+square 302 187 8 230
+rectangle 385 338 20 45 105
+triangle 349 162 3 28
+circle 22 77 22 130
+square 233 190 35 103
+rectangle 328 369 10 7 149
+triangle 94 201 44 9
+circle 3 258 9 72
+square 327 239 49 27
+rectangle 162 52 29 24 161
+triangle 194 372 32 72
+circle 399 346 34 228
+square 49 116 27 219
+rectangle 309 59 24 6 69
+triangle 128 358 45 198
+circle 251 299 37 188
+square 55 79 8 196
+rectangle 48 341 38 43 179
+triangle 359 353 4 144
+circle 181 74 18 81
+square 228 91 35 127
+rectangle 240 81 27 11 141
+triangle 391 211 28 60
+circle 79 65 15 144
+square 187 375 0 105
+rectangle 371 397 46 2 86
+triangle 318 364 21 134
+circle 105 159 25 252
+square 228 337 24 68
+rectangle 82 343 37 10 231
+triangle 174 184 32 119
+circle 124 21 45 227
+square 391 101 10 50
+rectangle 137 58 21 41 189
+triangle 54 136 46 17
+circle 292 192 24 34
+square 88 271 34 190
+rectangle 393 247 43 40 160
+triangle 84 279 14 185
+circle 273 242 34 77
+square 56 142 26 229
+rectangle 279 198 23 31 218
+triangle 348 345 37 249
+circle 54 381 19 87
+square 122 130 4 81
+rectangle 382 190 2 36 126
+triangle 286 388 10 1
+circle 59 9 29 124
+square 146 383 6 40
+rectangle 188 153 36 38 79
+triangle 206 159 33 189
+circle 131 37 10 42
+square 303 192 36 165
+rectangle 280 79 46 9 172
+triangle 363 329 9 12
+circle 362 95 9 230
+square 146 290 9 87
+rectangle 369 160 14 10 245
+triangle 249 133 27 221
+circle 37 313 8 142
+square 191 376 35 163
+rectangle 71 250 7 21 168
+triangle 271 263 47 218
+circle 231 393 38 32
+square 11 26 31 179
+rectangle 125 256 10 7 200
+triangle 256 71 42 11
+circle 288 171 47 147
+square 329 226 9 77
+rectangle 63 56 35 43 176
+triangle 95 349 47 95
+circle 184 105 40 218
+square 172 186 44 84
+rectangle 261 306 18 19 38
+triangle 218 287 42 117
+circle 195 284 22 43
+square 288 30 2 97
+rectangle 23 238 35 14 34
+triangle 109 72 35 55
+circle 223 317 34 155
+square 190 118 24 217
+rectangle 31 271 19 15 171
+triangle 3 71 26 254
+circle 188 139 3 33
+square 238 222 36 76
+rectangle 35 24 24 20 207
+triangle 224 310 9 122
+circle 104 141 27 203
+square 194 164 0 7
+rectangle 392 62 13 23 183
+triangle 359 50 44 84
+circle 81 300 47 154
+square 271 324 25 14
+rectangle 47 131 41 23 171
+triangle 118 394 10 184
+circle 170 124 2 14
+square 301 356 47 50
+rectangle 199 131 26 38 31
+triangle 96 184 43 231
+circle 212 72 47 64
+square 359 158 15 57
+rectangle 122 175 22 49 180
+triangle 114 155 35 141
+circle 244 125 47 7
+square 341 296 5 138
+rectangle 171 270 16 37 185
+triangle 104 382 0 125
+circle 7 373 8 69
+square 266 354 7 10
+rectangle 6 232 1 49 239
+triangle 298 60 6 122
+circle 343 250 43 128
+square 144 351 17 113
+rectangle 372 11 30 0 58
+triangle 373 19 12 226
+circle 338 302 41 141
+square 235 122 9 135
+rectangle 113 393 17 47 141
+triangle 79 162 41 152
+circle 212 197 28 244
+square 346 307 37 136
+rectangle 386 363 0 22 52
+triangle 151 130 31 4
+circle 331 315 44 138
+square 310 222 31 108
+rectangle 369 307 16 31 74
+triangle 35 22 4 22
+circle 76 39 21 62
+square 256 342 34 153
+rectangle 74 312 30 17 191
+triangle 144 106 36 235
+circle 364 330 44 101
+square 31 53 24 37
+rectangle 109 109 47 42 200
+triangle 275 316 19 207
+circle 354 399 7 98
+square 359 301 23 130
+rectangle 293 332 16 10 52
+triangle 24 206 47 211
+circle 376 305 13 44
+square 332 20 47 210
+rectangle 41 22 32 27 118
+triangle 264 318 23 163
+circle 19 113 19 165
+square 79 369 5 119
+rectangle 307 194 48 0 80
+triangle 273 261 38 91
+circle 391 272 41 13
+square 283 299 32 235
+rectangle 392 341 3 9 191
+triangle 44 33 36 119
+circle 384 68 13 55
+square 308 249 31 247
+rectangle 209 265 34 16 106
+triangle 215 44 14 78
+circle 363 283 6 49
+square 304 28 42 142
+rectangle 211 59 21 20 227
+triangle 138 208 44 55
+circle 115 145 22 213
+square 148 256 8 195
+rectangle 294 355 23 40 25
+triangle 0 83 46 201
+circle 19 376 32 241
+square 105 85 26 151
+rectangle 173 134 21 21 34
+triangle 373 240 25 220
+circle 67 83 10 118
+square 329 23 31 144
+rectangle 151 234 47 42 226
+triangle 184 244 35 131
+circle 365 263 41 201
+square 359 167 23 100
+rectangle 81 356 14 13 127
+triangle 5 289 40 17
+circle 170 211 30 61
+square 257 13 22 33
+rectangle 289 164 10 23 117
+triangle 179 329 33 75
+circle 221 348 0 59
+square 30 347 18 132
+rectangle 375 265 37 31 140
+triangle 76 257 21 163
+circle 146 307 3 193
+square 255 65 22 5
+rectangle 252 67 44 23 229
+triangle 147 78 28 38
+circle 226 148 11 235
+square 231 274 22 61
+rectangle 315 196 48 9 15
+triangle 191 70 5 198
+circle 39 389 11 31
+square 123 345 18 243
+rectangle 171 300 16 22 187
+triangle 376 262 12 67
+circle 363 149 24 3
+square 317 214 13 98
+rectangle 283 36 37 37 73
+triangle 183 177 1 236
+circle 188 332 29 184
+square 347 182 23 105
+rectangle 81 377 30 24 142
+triangle 197 132 5 123
+circle 189 70 6 138
+square 174 244 18 32
+rectangle 41 77 16 4 222
+triangle 14 398 39 178
+circle 25 377 17 206
+square 317 348 2 86
+rectangle 372 337 17 23 108
+triangle 219 78 5 94
+circle 1 334 16 245
+square 202 350 6 43
+rectangle 1 383 38 39 27
+triangle 60 67 28 169
+circle 381 178 42 208
+square 350 4 33 193
+rectangle 23 128 22 10 123
+triangle 356 162 45 254
+circle 295 260 33 39
+square 310 127 47 42
+rectangle 75 31 46 39 162
+triangle 307 264 32 64
+circle 197 63 11 161
+square 114 93 3 17
+rectangle 337 235 8 19 157
+triangle 187 96 3 29
+circle 87 366 0 198
+square 397 363 29 246
+rectangle 234 266 27 8 97
+triangle 189 371 27 197
+circle 197 115 21 116
+square 352 376 15 109
+rectangle 62 89 12 41 214
+triangle 50 292 5 149
+circle 382 296 17 250
+square 149 308 7 128
+rectangle 311 275 2 9 184
+triangle 28 219 34 20
+circle 289 149 14 191
+square 336 266 21 251
+rectangle 74 217 32 45 33
+triangle 174 229 39 8
+circle 51 192 29 162
+square 343 66 1 50
+rectangle 183 112 40 20 41
+triangle 141 224 36 232
+circle 204 18 5 238
+square 204 204 42 188
+rectangle 122 127 19 28 70
+triangle 77 62 39 11
+circle 284 277 34 22
+square 372 308 25 244
+rectangle 83 252 3 35 137
+triangle 47 79 35 178
+circle 393 234 20 13
+square 156 157 22 63
+rectangle 153 76 36 10 61
+triangle 130 374 20 54
+circle 93 183 14 215
+square 224 131 22 125
+rectangle 57 334 40 42 167
+triangle 210 135 5 251
+circle 171 363 5 115
+square 271 226 6 180
+rectangle 362 243 34 15 93
+triangle 346 231 29 202
+circle 47 169 30 249
+square 13 134 21 33
+rectangle 190 181 21 44 186
+triangle 204 354 42 53
+circle 27 167 23 9
+square 265 86 31 250
+rectangle 94 240 17 20 39
+triangle 166 7 45 186
+circle 83 5 8 139
+square 214 24 21 188
+rectangle 209 4 11 20 252
+triangle 262 394 23 51
+circle 102 77 41 141
+square 81 378 2 80
+rectangle 278 173 26 24 200
+triangle 274 25 1 10
+circle 104 208 32 237
+square 26 297 14 85
+rectangle 128 301 4 39 227
+triangle 42 182 7 84
+circle 268 209 0 123
+square 356 248 41 6
+rectangle 91 382 21 46 152
+triangle 70 80 36 66
+circle 162 193 41 42
+square 57 223 28 91
+rectangle 331 342 4 26 81
+triangle 294 343 49 36
+circle 185 300 6 66
+square 31 293 11 253
+rectangle 244 330 5 19 51
+triangle 228 167 6 179
+circle 338 5 10 139
+square 66 50 32 254
+rectangle 236 334 37 29 230
+triangle 238 214 7 116
+circle 311 141 9 105
+square 164 10 16 47
+rectangle 8 169 23 1 106
+triangle 302 251 48 110
+circle 26 135 43 45
+square 163 335 15 40
+rectangle 105 336 42 46 9
+triangle 138 53 8 168
+circle 145 255 1 220
+square 21 76 40 114
+rectangle 98 391 24 18 138
+triangle 277 396 49 162
+circle 188 101 34 168
+square 126 42 9 129
+rectangle 216 273 42 14 93
+triangle 97 99 4 48
+circle 75 329 25 162
+square 361 184 12 175
+rectangle 138 352 2 24 174
+triangle 397 1 9 162
+circle 222 321 34 221
+square 360 110 28 85
+rectangle 81 93 4 48 28
+triangle 231 132 3 170
+circle 296 228 42 249
+square 203 126 34 50
+rectangle 45 240 28 33 76
+triangle 295 325 22 246
+circle 182 384 16 90
+square 232 32 38 81
+rectangle 194 399 25 1 143
+triangle 250 380 12 160
+circle 311 290 14 202
+square 376 287 5 100
+rectangle 21 342 35 5 71
+triangle 144 80 17 187
+circle 346 362 40 173
+square 365 371 12 243
+rectangle 261 264 2 3 18
+triangle 2 321 15 200
+circle 49 322 0 198
+square 236 170 49 114
+rectangle 344 165 49 13 167
+triangle 6 40 39 149
+circle 346 251 16 50
+square 147 315 33 218
+rectangle 66 71 33 16 43
+triangle 152 349 6 147
+circle 128 344 9 59
+square 192 392 30 71
+rectangle 247 166 1 22 63
+triangle 231 229 29 187
+circle 27 158 24 197
+square 129 263 8 48
+rectangle 373 329 12 15 119
+triangle 305 366 33 218
+circle 148 325 31 129
+square 130 255 2 95
+rectangle 54 334 3 15 240
+triangle 94 263 41 221
+circle 49 146 4 134
+square 47 108 49 14
+rectangle 208 201 19 42 211
+triangle 0 239 29 73
+circle 227 178 40 127
+square 209 380 7 192
+rectangle 382 385 10 10 88
+triangle 323 300 42 175
+circle 111 19 28 33
+square 297 57 9 28
+rectangle 316 285 35 31 80
+triangle 299 71 48 120
+circle 133 134 47 83
+square 74 68 38 165
+rectangle 0 126 19 17 135
+triangle 89 183 17 87
+circle 331 316 33 124
+square 215 158 34 220
+rectangle 60 320 4 43 7
+triangle 48 107 43 117
+circle 64 326 3 208
+square 341 344 21 217
+rectangle 259 350 29 35 52
+triangle 252 62 41 233
+circle 276 143 23 248
+square 108 71 15 210
+rectangle 143 336 9 0 112
+triangle 303 389 42 125
+circle 335 115 32 217
+square 95 103 35 194
+rectangle 12 214 33 47 41
+triangle 314 363 19 177
+circle 306 165 19 223
+square 121 194 0 48
+rectangle 348 209 18 46 64
+triangle 179 149 35 47
+circle 352 262 38 223
+square 334 342 13 171
+rectangle 58 40 27 31 185
+triangle 152 252 31 166
+circle 28 282 40 60
+square 37 185 13 2
+rectangle 369 97 37 1 151
+triangle 174 333 29 167
+circle 300 154 32 70
+square 333 185 14 126
+rectangle 340 49 39 2 108
+triangle 287 5 13 105
+circle 398 319 48 75
+square 285 226 0 219
+rectangle 277 364 9 41 79
+triangle 60 44 0 24
+circle 46 64 14 218
+square 267 358 29 231
+rectangle 384 381 46 19 146
+triangle 393 194 0 174
+circle 326 22 47 99
+square 370 106 18 183
+rectangle 285 362 34 2 57
+triangle 10 54 25 206
+circle 301 348 32 184
+square 333 382 11 227
+rectangle 3 36 48 16 171
+triangle 288 272 48 50
+circle 276 67 49 2
+square 33 242 22 99
+rectangle 361 279 19 14 237
+triangle 212 132 37 34
+circle 343 281 22 105
+square 185 169 14 5
+rectangle 152 255 28 23 54
+triangle 223 23 19 159
+circle 132 23 23 229
+square 245 117 18 193
+rectangle 44 266 15 11 151
+triangle 307 292 47 14
+circle 364 215 3 108
+square 348 224 11 237
+rectangle 72 52 37 27 212
+triangle 395 92 44 110
+circle 131 344 13 72
+square 314 44 37 126
+rectangle 120 52 14 3 89
+triangle 176 30 12 67
+circle 285 387 0 251
+square 263 263 47 136
+rectangle 4 29 45 33 78
+triangle 279 4 26 219
+circle 130 261 36 220
+square 2 343 33 242
+rectangle 111 282 40 16 246
+triangle 123 19 25 124
+circle 379 152 10 0
+square 309 135 25 133
+rectangle 181 253 37 33 196
+triangle 3 29 28 168
+circle 200 182 34 29
+square 291 54 13 83
+rectangle 214 67 29 25 249
+triangle 199 54 18 137
+circle 92 291 42 25
+square 121 152 12 192
+rectangle 231 344 34 24 88
+triangle 161 134 9 44
+circle 116 167 11 57
+square 71 35 31 156
+rectangle 161 38 8 13 81
+triangle 343 260 29 100
+circle 46 348 11 133
+square 275 252 33 219
+rectangle 324 303 30 38 128
+triangle 221 308 13 5
+circle 239 284 15 201
+square 47 355 44 156
+rectangle 257 158 33 5 217
+triangle 239 90 40 221
+circle 57 399 13 149
+square 230 127 26 83
+rectangle 190 27 37 30 23
+triangle 203 282 30 82
+circle 71 319 25 63
+square 166 21 4 133
+rectangle 30 180 33 8 42
+triangle 57 318 5 100
+circle 189 50 22 25
+square 127 98 20 83
+rectangle 38 85 43 26 160
+triangle 388 224 15 145
+circle 111 341 42 125
+square 295 159 27 123
+rectangle 291 7 44 1 8
+triangle 96 318 42 156
+circle 99 327 48 158
+square 299 62 45 169
+rectangle 270 394 12 25 172
+triangle 61 247 32 183
+circle 8 259 17 237
+square 122 105 8 92
+rectangle 238 73 16 22 222
+triangle 46 114 7 12
+circle 99 207 32 30
+square 60 60 5 181
+rectangle 55 367 27 26 227
+triangle 196 224 11 195
+circle 56 324 24 245
+square 92 73 17 215
+rectangle 234 37 27 18 45
+triangle 212 116 7 235
+circle 156 40 44 161
+square 242 28 18 123
+rectangle 274 197 18 20 13
+triangle 213 396 3 38
+circle 284 154 36 110
+square 187 154 22 254
+rectangle 283 334 9 49 26
+triangle 258 114 37 214
+circle 98 112 10 180
+square 85 5 12 250
+rectangle 298 280 0 21 226
+triangle 39 122 4 214
+circle 394 147 34 167
+square 56 121 24 250
+rectangle 181 216 8 22 248
+triangle 319 100 11 33
+circle 144 351 36 201
+square 308 235 29 247
+rectangle 215 305 26 20 139
+triangle 51 62 40 239
+circle 261 97 20 76
+square 215 63 33 185
+rectangle 307 10 3 37 135
+triangle 99 172 11 65
+circle 60 237 26 29
+square 105 106 27 178
+rectangle 268 247 0 26 193
+triangle 138 308 4 199
+circle 391 190 21 251
+square 78 127 40 104
+rectangle 244 116 30 23 24
+triangle 101 38 10 3
+circle 40 298 11 99
+square 81 201 42 163
+rectangle 222 285 47 33 81
+triangle 155 378 4 9
+circle 101 47 5 241
+square 292 360 47 110
+rectangle 198 31 48 3 50
+triangle 213 149 42 88
+circle 393 58 43 30
+square 8 24 32 236
+rectangle 339 30 2 35 193
+triangle 31 60 21 60
+circle 22 214 36 234
+square 51 337 10 18
+rectangle 160 163 23 0 210
+triangle 92 80 36 238
+circle 51 85 28 87
+square 226 103 19 16
+rectangle 108 224 6 1 106
+triangle 361 79 45 137
+circle 16 220 47 113
+square 158 164 26 31
+rectangle 19 167 46 33 135
+triangle 92 62 2 164
+circle 144 167 43 219
+square 181 319 24 105
+rectangle 234 79 11 14 181
+triangle 4 194 31 163
+circle 137 278 18 125
+square 113 330 12 179
+rectangle 276 351 1 47 226
+triangle 47 41 16 190
+circle 207 338 21 220
+square 354 248 2 115
+rectangle 105 86 7 20 149
+triangle 13 25 41 219
+circle 75 100 42 175
+square 46 97 37 12
+rectangle 164 1 2 40 117
+triangle 7 7 35 116
+circle 331 76 0 198
+square 257 193 15 159
+rectangle 68 42 23 30 118
+triangle 265 128 25 153
+circle 151 97 34 185
+square 273 143 30 93
+rectangle 250 261 7 8 23
+triangle 133 395 1 171
+circle 115 0 35 144
+square 334 224 11 172
+rectangle 5 24 29 49 11
+triangle 144 22 33 40
+circle 34 340 36 25
+square 127 129 7 33
+rectangle 75 229 0 0 186
+triangle 122 247 41 194
+circle 244 95 42 96
+square 50 165 16 42
+rectangle 174 155 44 1 30
+triangle 265 8 4 15
+circle 90 91 19 203
+square 30 344 33 147
+rectangle 96 36 7 5 144
+triangle 15 103 10 109
+circle 395 218 2 139
+square 38 348 6 93
+rectangle 320 94 14 13 206
+triangle 388 218 16 228
+circle 303 396 30 173
+square 364 147 29 27
+rectangle 178 29 14 45 194
+triangle 59 298 29 201
+circle 89 194 33 190
+square 102 368 9 155
+rectangle 161 116 43 27 175
+triangle 369 188 0 250
+circle 282 196 17 0
+square 305 209 22 180
+rectangle 378 117 5 20 113
+triangle 1 244 22 146
+circle 146 366 39 109
+square 97 239 48 251
+rectangle 397 323 15 49 45
+triangle 242 119 29 244
+circle 297 196 35 49
+square 74 59 43 117
+rectangle 391 292 9 38 185
+triangle 118 85 30 228
+circle 366 317 43 228
+square 384 241 27 212
+rectangle 80 325 22 48 113
+triangle 264 105 14 2
+circle 96 157 33 254
+square 31 297 35 207
+rectangle 261 130 33 24 11
+triangle 97 309 29 20
+circle 245 391 34 238
+square 267 345 33 7
+rectangle 165 110 19 33 199
+triangle 232 346 17 110
+circle 121 325 0 18
+square 231 67 13 15
+rectangle 274 2 29 27 26
+triangle 51 106 32 107
+circle 169 55 19 2
+square 201 135 10 94
+rectangle 30 2 36 9 85
+triangle 86 21 25 42
+circle 318 162 4 221
+square 19 14 15 26
+rectangle 163 166 22 24 224
+triangle 194 364 38 135
+circle 377 85 49 44
+square 332 168 25 228
+rectangle 61 124 23 36 165
+triangle 238 328 11 165
+circle 126 211 39 82
+square 377 392 48 98
+rectangle 319 78 45 8 182
+triangle 324 309 12 76
+circle 104 239 38 237
+square 61 331 37 129
+rectangle 23 339 41 43 185
+triangle 291 264 46 112
+circle 204 165 42 110
+square 164 78 1 209
+rectangle 270 54 35 13 231
+triangle 266 46 35 95
+circle 227 227 10 129
+square 260 38 0 80
+rectangle 386 0 9 17 215
+triangle 92 187 15 165
+circle 47 346 26 108
+square 264 116 22 53
+rectangle 5 188 6 35 252
+triangle 154 290 2 238
+circle 88 291 41 73
+square 77 47 15 37
+rectangle 319 25 44 41 63
+triangle 245 124 16 57
+circle 395 118 46 85
+square 182 56 18 8
+rectangle 26 313 39 36 244
+triangle 352 168 6 19
+circle 284 359 3 87
+square 191 355 36 9
+rectangle 371 339 40 37 215
+triangle 9 238 38 226
+circle 116 153 43 75
+square 307 2 44 246
+rectangle 8 248 7 20 34
+triangle 228 44 19 199
+circle 15 36 18 107
+square 366 343 48 193
+rectangle 151 54 6 38 126
+triangle 382 337 6 236
+circle 314 376 30 25
+square 283 225 27 233
+rectangle 192 385 13 19 183
+triangle 36 165 25 201
+circle 192 340 45 217
+square 169 305 3 75
+rectangle 276 186 44 47 160
+triangle 119 3 25 77
+circle 136 179 47 113
+square 339 259 13 83
+rectangle 325 397 1 33 133
+triangle 186 210 23 196
+circle 164 33 13 104
+square 145 155 40 71
+rectangle 32 397 41 15 199
+triangle 47 47 30 8
+circle 92 38 5 95
+square 117 387 15 196
+rectangle 265 67 18 27 17
+triangle 57 327 33 171
+circle 397 240 23 239
+square 205 232 1 243
+rectangle 254 139 34 12 209
+triangle 75 81 25 108
+circle 244 72 14 78
+square 348 253 12 105
+rectangle 269 17 48 5 132
+triangle 214 243 17 190
+circle 211 307 42 92
+square 271 371 44 100
+rectangle 235 163 27 6 16
+triangle 155 204 14 1
+circle 158 38 33 224
+square 16 141 28 203
+rectangle 283 121 29 31 141
+triangle 153 144 9 197
+circle 15 377 27 188
+square 10 116 45 20
+rectangle 282 51 46 26 102
+triangle 93 159 2 64
+circle 117 57 44 226
+square 269 173 4 43
+rectangle 23 308 37 29 105
+triangle 385 361 44 148
+circle 184 70 30 24
+square 290 131 12 192
+rectangle 226 128 20 3 51
+triangle 342 260 38 144
+circle 72 87 3 89
+square 191 310 31 137
+rectangle 224 394 25 16 145
+triangle 242 139 35 236
+circle 341 10 15 97
+square 86 104 30 23
+rectangle 31 55 0 20 254
+triangle 299 344 27 170
+circle 43 397 25 33
+square 103 366 19 137
+rectangle 194 335 4 36 203
+triangle 342 225 18 148
+circle 97 239 26 65
+square 326 71 18 119
+rectangle 298 42 7 17 171
+triangle 106 321 30 210
+circle 286 46 37 185
+square 275 384 24 141
+rectangle 270 225 3 19 51
+triangle 229 302 40 150
+circle 174 10 24 12
+square 6 0 38 91
+rectangle 5 83 41 49 143
+triangle 179 395 6 195
+circle 248 389 18 104
+square 303 294 1 30
+rectangle 309 118 13 4 232
+triangle 80 218 1 30
+circle 256 288 7 14
+square 371 248 11 231
+rectangle 257 130 2 18 115
+triangle 374 328 4 168
+circle 114 279 38 70
+square 193 348 27 10
+rectangle 191 350 4 26 76
+triangle 178 5 2 235
+circle 396 335 25 75
+square 293 27 48 62
+rectangle 10 255 20 27 153
+triangle 288 379 3 180
+circle 283 373 5 113
+square 181 67 20 42
+rectangle 319 167 30 28 203
+triangle 328 168 22 167
+circle 1 90 1 113
+square 224 209 47 209
+rectangle 133 346 22 41 144
+triangle 8 219 9 187
+circle 17 192 42 215
+square 271 144 14 67
+rectangle 204 153 23 7 203
+triangle 346 325 23 110
+circle 342 137 47 115
+square 42 167 5 252
+rectangle 3 228 38 32 65
+triangle 245 293 22 254
+circle 90 248 12 75
+square 50 367 17 36
+rectangle 71 218 26 14 222
+triangle 98 90 20 85
+circle 353 97 1 105
+square 378 76 3 112
+rectangle 224 59 14 40 42
+triangle 232 76 4 198
+circle 45 191 37 85
+square 323 322 42 204
+rectangle 160 154 41 47 170
+triangle 42 377 20 224
+circle 365 310 27 221
+square 259 187 38 121
+rectangle 211 375 32 20 82
+triangle 270 9 0 90
+circle 9 24 35 104
+square 8 18 0 183
+rectangle 24 122 0 21 205
+triangle 146 43 20 2
+circle 248 305 6 153
+square 195 231 31 104
+rectangle 314 275 19 36 114
+triangle 41 339 12 180
+circle 317 204 1 176
+square 287 364 23 90
+rectangle 146 386 39 31 99
+triangle 221 262 31 182
+circle 0 150 37 135
+square 345 264 24 124
+rectangle 354 212 10 9 154
+triangle 375 11 28 86
+circle 378 102 29 58
+square 20 180 0 89
+rectangle 314 140 2 19 43
+triangle 369 291 23 7
+circle 134 216 37 72
+square 297 201 5 137
+rectangle 286 198 27 13 205
+triangle 281 386 1 145
+circle 83 81 23 34

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/estebanmontesinos/Desktop/hw4/main.cpp
+iostream
+-
+fstream
+-
+iostream
+-
+math.h
+-
+
